@@ -1,0 +1,664 @@
+.container-fluid  {
+    background-color: #fff;
+}
+.wpgsv-metaside {
+  padding: 0 15px;
+}
+.wpgsv-margin {
+  margin: 25px!important;
+}
+/*****************************************
+                Segment
+*****************************************/
+.wpgsv-segment {
+    padding: 20px 30px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 0px #ddd;
+    margin: 30px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.wpgsv-segment h2 {
+    margin: 0.5em 0;
+    display: block;
+}
+.wpgsv-segment h3 {
+  margin: 15px 0;
+  font-size: 1.5em;
+  display: block!important;
+}
+.wpgsv-segment p {
+  margin: 0.5em 0;
+  display: block; 
+}
+.wpgsv-segment ol, .wpgsv-segment ul {
+  margin-left: 1em;
+}
+.wpgsv-segment ol > li > ul {
+  margin: 10px 0px 10px 10px;
+}
+.wpgsv-segment ul li, .wpgsv-segment ol > li > ul > li {
+  list-style-type: square;
+}
+
+.wpgsv-segment code {
+  font-family: 'Courier New', Courier, monospace; /* Use a monospace font for code */
+  background-color: #f5f5f5; /* Light gray background for contrast */
+  border-radius: 4px; /* Rounded corners */
+  padding: 2px 4px; /* Padding for spacing */
+  font-size: 100%; /* Slightly smaller font size */
+  color: #d63384; /* A nice color for the text */
+  overflow-wrap: break-word; /* Ensure long code wraps */
+  white-space: pre-wrap; /* Preserve whitespace and wrap as needed */
+}
+
+/* Optional: Add some additional styling for <pre> tags to style code blocks */
+.wpgsv-segment pre {
+  background-color: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 90%;
+  color: #d63384;
+  overflow: auto; /* Add scroll for long code blocks */
+}
+
+.wpgsv-segment hr {
+  border: none;
+  border-top: 1px solid #ccc; /* Color of the horizontal line */
+  margin: 25px 0 20px; /* Margin above and below */
+}
+
+/*****************************************
+                FORM
+*****************************************/
+.wpgsv-container {
+    width: 98%;
+    padding: 0;
+    margin: 0;
+}
+.wpgsv-form .field {
+    margin: 10px 0;
+}
+.wpgsv-form .field .wpgsv-input,
+.wpgsv-form .field .wpgsv-select,
+.wpgsv-textarea {
+    width: 100%;
+    padding: 7px 14px;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-shadow: 1px 1px 0px #ddd;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+#wpbody .wpgsv-form .field .wpgsv-select {
+    max-width: unset;
+    height: 45px !important;
+}
+.wpgsv-textarea {
+  height: 160px;
+}
+.wpgsv-seo .wpgsv-textarea {
+  height: 100px;
+}
+.wpgsv-form .field label {
+    display: inline-block;
+    margin: 0 0 .28571429rem 0;
+    color: rgba(0,0,0,.87);
+    font-size: 1.1em;
+    font-weight: 700;
+    text-transform: none;
+}
+.wpgsv-form .field.wpgsv-zoom > label {
+  display: block;
+}
+.wpgsv-form .field > label > i {
+  font-size: 0.9em;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 5px;
+}
+.wpgsv-form .field label.checkbox {
+    display: inline-block;
+    margin-left: 5px;
+}
+.wpgsv-form .field .wpgsv-submit, .wpgsv-btn {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    background-color: #6BBD6E;
+    color: #fff;
+    border: 0;
+    border-radius: 3px;
+    padding: 12px 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 0px #ddd;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+}
+.wpgsv-form .field .wpgsv-submit:hover, .wpgsv-btn:hover {
+    background-color: #4a8e4c;
+    color: #fff;
+}
+.wpgsv-form .field .wpgsv-input-btn {
+  position: relative;
+}
+.wpgsv-form .field .wpgsv-input-btn .location-icon {
+  position: absolute;
+  top: 6px;
+  right: 4px;
+  cursor: pointer;
+  font-style: normal;
+  font-size: 13px;
+  font-weight: 500;
+  text-transform: uppercase;
+  padding: 10px 12px;
+  line-height: 100%;
+  color: #fff;
+  background-color: #d01919;
+  border: 0;
+  border-radius: 3px;
+}
+.wpgsv-getMap {
+  background-color: #d01919;
+  color: #fff;
+  border: 0;
+  padding: 10px 20px;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 3px;
+  width: 100%;
+  cursor: pointer;
+  box-shadow: 2px 2px 0px #ddd;
+  text-transform: uppercase;
+}
+input[readonly].wpgsv-readonly {
+  background-color: #eee;
+  border: 1px solid  #ccc;
+  padding:  0px 10px 3px;
+  width:  160px;
+}
+input[readonly].wpgsv-readonly.wpgsv-shortcode {
+	width: 100%!important;
+	padding: 6px 12px;
+	margin: 10px 0;
+	border: 1px solid #aaa;
+	border-radius: 3px;
+	box-shadow: 2px 2px 0px #ddd;
+	background-color: #fff;
+	font-size: 18px;
+}
+.wpgsv-input.disabled, .wpgsv-textarea.disabled  {
+  background-color: #f5f5f5;
+}
+.wpgsv-form .focus-visible:required {
+  border-color: red;
+}
+/*****************************************
+            TOGGLE CHECKBOX
+*****************************************/
+.wpgsv-form .field .toggle {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    box-shadow: 1px 1px 0px #ddd;
+    margin: 5px 0;
+  }
+  
+.wpgsv-form .field .toggle input {
+    display:none;
+}
+  
+.toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+  
+.toggle-slider:before {
+    position: absolute;
+    content: "";
+    height: 24px;
+    width: 24px;
+    left: 5px;
+    bottom: 5px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+  
+input:checked + .toggle-slider {
+    background-color: #6BBD6E;
+}
+  
+input:focus + .toggle-slider {
+    box-shadow: 0 0 1px #6BBD6E;
+}
+  
+input:checked + .toggle-slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+  
+.toggle-slider.toggle-round {
+    border-radius: 0;
+}
+  
+.toggle-slider.toggle-round:before {
+    border-radius: 0;
+}
+
+/*****************************************
+            RANGE  NUMBER SLIDER
+*****************************************/
+.wpgsv-zoom span {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgba(34,36,38,.15);
+    border-radius: .28571429rem;
+    padding: 10px 2px 10px 0;
+    width: 50px;
+}
+.wpgsv-zoom .wpgsv-range {
+    width: calc(100% - 60px);
+    -webkit-appearance: none;
+    vertical-align: middle;
+    outline: none;
+    border: none;
+    padding: 0;
+    background: none;
+}
+
+.wpgsv-zoom .wpgsv-range::-webkit-slider-runnable-track {
+	background-color: #d7dbdd;
+	height: 6px;
+	border-radius: 3px;
+	border: 1px solid transparent;
+}
+
+.wpgsv-zoom .wpgsv-range[disabled]::-webkit-slider-runnable-track {
+  border: 1px solid #d7dbdd;
+  background-color: transparent;
+  opacity: 0.4;
+}
+
+.wpgsv-zoom .wpgsv-range::-moz-range-track {
+  background-color: #d7dbdd;
+  height: 6px;
+  border-radius: 3px;
+  border: none;
+}
+
+.wpgsv-zoom .wpgsv-range::-ms-track {
+  color: transparent;
+  border: none;
+  background: none;
+  height: 6px;
+}
+
+.wpgsv-zoom .wpgsv-range::-ms-fill-lower { 
+  background-color: #d7dbdd;
+  border-radius: 3px;
+}
+
+.wpgsv-zoom .wpgsv-range::-ms-fill-upper { 
+  background-color: #d7dbdd;
+  border-radius: 3px;
+}
+
+.wpgsv-zoom .wpgsv-range::-ms-tooltip { display: none; /* display and visibility only */ }
+
+.wpgsv-zoom .wpgsv-range::-moz-range-thumb {
+  border-radius: 20px;
+  height: 18px;
+  width: 18px;
+  border: none;
+  background: none;
+  background-color: #606670;
+}
+
+.wpgsv-zoom .wpgsv-range:active::-moz-range-thumb {
+  outline: none;
+}
+
+.wpgsv-zoom .wpgsv-range::-webkit-slider-thumb {
+  -webkit-appearance: none !important;
+  border-radius: 100%;
+  background-color: #606670;
+  height: 18px;
+  width: 18px;
+  margin-top: -7px;
+}
+
+.wpgsv-zoom .wpgsv-range[disabled]::-webkit-slider-thumb {
+  background-color: transparent;
+  border: 1px solid #d7dbdd;
+}
+
+.wpgsv-zoom .wpgsv-range:active::-webkit-slider-thumb {
+  outline: none;
+}
+
+.wpgsv-zoom .wpgsv-range::-ms-thumb { 
+  border-radius: 100%;
+  background-color: #606670;
+  height: 18px;
+  width: 18px; 
+  border: none;
+}
+
+.wpgsv-zoom .wpgsv-range:active::-ms-thumb {
+  border: none;
+}
+/*****************************************
+    Image for Radio Buttons - Map Themes
+*****************************************/
+.input-hidden {
+  position: absolute;
+  left: -9999px;
+}
+.style-selector:after{
+  display: block;
+  content: '';
+  clear: both;
+}
+.style-selector input[type=radio]:checked + label>img {
+  border: 1px solid #fff;
+  box-shadow: 0 0 2px 2px #090;
+}
+
+.style-selector input[type=radio] + label>img {
+  float: left;
+  margin: 0px 6px 6px 0;
+  border: 1px dashed #444;
+  width: 290px;
+  height: 181px;
+}
+.type-selector:after{
+  display: block;
+  content: '';
+  clear: both;
+}
+.type-selector input[type=radio]:checked + label>img {
+  border: 1px solid #fff;
+  box-shadow: 0 0 2px 2px #090;
+}
+.type-selector input[type=radio] + label>img {
+  float: left;
+  margin: 10px 0 10px 10px;
+  border: 1px dashed #444;
+  width: calc(100% / 3 - 16px);
+  height: auto;
+}
+.type-selector h2 {
+	background-color: #f1f1f1;
+	margin: 10px 10px 0!important;
+	font-size: 1.5em!important;
+	font-weight: 600!important;
+}
+.type-selector h2 span {
+	font-size: 12px;
+  text-transform: none;
+  margin-left: 5px;
+}
+.marker-selector label {
+  width: 64px;
+  border: 1px solid #ddd;
+  text-align: center;
+  padding: 10px;
+  margin-right: 3px;
+}
+/* .type-selector input[type=radio] + label>img {
+  float: left;
+  margin: 10px 15px 15px 0;
+  border: 1px dashed #444;
+  width: calc(100% / 3 - 17px);
+  height: auto;
+} */
+/*****************************************
+                TABS
+*****************************************/
+.wpgsv-tab.nav-tab {
+    border: 1px solid #ddd;
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+.wpgsv-tab.nav-tab:hover, .wpgsv-tab.nav-tab.nav-tab-active {
+    background: #fff;
+}
+.nav-tab-wrapper, .wrap h2.nav-tab-wrapper, h1.nav-tab-wrapper {
+    border-bottom: 3px solid #ddd;
+}
+
+/*****************************************
+                POST TYPE CSS
+*****************************************/
+.post-type-wpgsv .postbox .inside {
+  padding: 0;
+}
+.post-type-wpgsv #poststuff .inside {
+  margin: 0;
+}
+.post-type-wpgsv .postbox .inside .wpgsv-segment {
+  margin: 25px 0;
+}
+.post-type-wpgsv .postbox .inside .wpgsv-segment.map-type {
+  margin: 25px;
+}
+/*****************************************
+                MAP
+*****************************************/
+.wpgsv-map-container {
+  position: relative;
+  width: 100%;
+  height: 450px;
+  margin: auto;
+}
+#wpgsv-map, #wpgsv-pano {
+  position: absolute;
+  margin: 0 auto;
+  height: 100%;
+}
+#wpgsv-map {
+  top: 0;
+  left: 0;
+}
+#wpgsv-pano {
+  top: 0;
+  right: 0;
+}
+/*****************************************
+                Notices
+*****************************************/
+.wpgsv-notice {
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 3px;
+  font-size: 15px;
+}
+.wpgsv-notice a {
+  font-weight: 500;
+  color: #333;
+  border-bottom: 1px dashed;
+  text-decoration: none;
+}
+.wpgsv-notice a:hover {
+  font-weight: 500;
+  color: #000;
+  border-bottom: 0px dashed;
+}
+.wpgsv-error {
+  border: 1px solid rgb(255, 0, 0);
+  background-color: rgba(255, 0, 0, 0.05);
+  box-shadow: 2px 2px 0px rgb(255, 0, 0);
+}
+.wpgsv-info {
+  border: 1px solid rgb(75, 0, 255);
+  background-color: rgba(75, 0, 255,.05);
+  box-shadow: 2px 2px 0px rgb(75, 0, 255);
+}
+.wpgsv-warn {
+  border: 1px solid rgb(255, 183, 0);
+  background-color: rgba(255, 183, 0,.05);
+  box-shadow: 2px 2px 0px rgb(255, 183, 0);
+}
+/*****************************************
+              Display Shortcode
+*****************************************/
+.wpgsv-shortcode {
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  box-shadow: 2px 2px 0px #ddd;
+  background-color: #fff;
+  font-size: 18px;
+  cursor: text;
+}
+
+/*****************************************
+                  TABS
+*****************************************/
+.wpgsv-tabs ul.tabs {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	border-bottom: 1px solid #ccc;
+	border-radius: 2px;
+}
+.wpgsv-tabs ul.tabs li {
+	background: #f5f5f5;
+	display: inline-block;
+	padding: 15px 25px;
+	cursor: pointer;
+	margin: 0;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	font-size: 18px;
+	font-weight: 500;
+	margin-bottom: -1px
+}
+.wpgsv-tabs ul.tabs li:first-child {
+	margin-left: 10px;
+}
+.wpgsv-tabs ul.tabs li.current {
+	background: #fff;
+	color: #222;
+	border-bottom: 1px solid #fff;
+}
+
+.wpgsv-tabs .tab-content{
+	display: none;
+	margin: 0;
+	border: 0px solid #ccc;
+	border-radius: 2px;
+	border-top: 0;
+}
+
+.wpgsv-tabs .tab-content.current {
+	display: inherit;
+}
+
+
+/*****************************************
+                  Tooltip
+*****************************************/
+.wpgsv-tooltip {
+  position: relative;
+  display: inline-block;
+}
+.wpgsv-tooltip .wpgsv-tooltiptext {
+  visibility: hidden;
+  width: 350px;
+  background-color: #444444;
+  font-size: 14px;
+  color: #fff;
+  text-align: left;
+  padding: 10px 15px;
+  border-radius: 6px;
+  position: absolute;
+top: -12px;
+  left: 190%; 
+  z-index: 1;
+}
+.wpgsv-tooltip:hover .wpgsv-tooltiptext {
+  visibility: visible;
+}
+.wpgsv-tooltip .wpgsv-tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent #444444 transparent transparent;
+}
+.wpgsv-tooltip-after {
+  position: relative;
+  display: inline-block;
+  margin-left: 15px;
+  font-size: 14px;
+}
+.wpgsv-tooltip .dashicons {
+  font-size: 24px;
+  line-height: 85%;
+}
+
+.wpgsv-image-preview {
+  display: inline-block;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+.wpgsv-image-preview img {
+  width: 100%;
+  height: auto;
+}
+.wpgsv-image-preview .wpgsv-remove {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background-color: red;
+  border: 0;
+  padding: 2px 6px;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}

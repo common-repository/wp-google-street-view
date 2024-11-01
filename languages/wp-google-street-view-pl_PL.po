@@ -1,0 +1,897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Google Street View Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-25 22:01+0000\n"
+"PO-Revision-Date: 2021-05-25 22:43+0000\n"
+"Last-Translator: Gautier Dorval\n"
+"Language-Team: Polish\n"
+"Language: pl-PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wp-google-street-view"
+
+#: admin/inc/metabox_form.php:4
+msgid ""
+"(Google Street View, Google Maps or Synchronized Street view + Maps) Check "
+"our DEMO"
+msgstr ""
+"(Google Street View, Google Maps lub Synchronized Street View + Maps) "
+"Sprawdź naszą DEMO"
+
+#: admin/inc/settings_seo.php:200
+msgid "- Add Opening Hours by separate line"
+msgstr "- Dodaj godziny otwarcia w osobnym wierszu"
+
+#: admin/inc/settings_seo.php:198
+msgid ""
+"- Days are specified using the following two-letter combinations: Mo, Tu, We,"
+" Th, Fr, Sa, Su."
+msgstr ""
+"- Dni są określane za pomocą następujących dwuliterowych kombinacji: Mo, Tu, "
+"We, Th, Fr, Sa, Su."
+
+#: admin/inc/settings_seo.php:199
+msgid ""
+"- Times are specified using 24:00 time. For example, 3pm is specified as 15:"
+"00."
+msgstr ""
+"- Czasy są określane przy użyciu godziny 24:00. Na przykład godzina 15:00 "
+"jest określona jako 15:00."
+
+#: admin/inc/settings_seo.php:385
+msgid "About Schema Markup"
+msgstr "O znacznikach schematu"
+
+#: admin/cpt.php:13
+msgid "Add New"
+msgstr "Dodaj nowe"
+
+#: admin/cpt.php:12
+msgid "Add New Map"
+msgstr "Dodaj nową mapę"
+
+#: admin/inc/settings_seo.php:11
+msgid ""
+"Adding Local Business markup to your website translates your human-readable "
+"content into the machine-readable language of JSON-LD. This is a helpful way "
+"to help optimize <strong>your website for local SEO, as it's a major ranking "
+"factor.</strong>"
+msgstr ""
+"Dodanie znaczników firmy lokalnej do witryny internetowej przekłada czytelną "
+"dla człowieka treść na czytelny maszynowo język JSON-LD. Jest to pomocny "
+"sposób optymalizacji <strong> witryny pod kątem lokalnego SEO, ponieważ jest "
+"to główny czynnik rankingowy. </strong>"
+
+#: admin/inc/settings_form_bkup.php:21 admin/inc/settings_seo.php:257
+msgid "Address"
+msgstr "Adres"
+
+#: admin/inc/tabs/general-settings.php:7
+msgid "Address (Coordinates)"
+msgstr "Adres (współrzędne)"
+
+#: admin/cpt.php:11
+msgid "All Items"
+msgstr "Wszystkie przedmioty"
+
+#: admin/inc/settings_seo.php:118
+msgid "at least 160x90 pixels and at most 1920x1080 pixels"
+msgstr "co najmniej 160x90 pikseli i co najwyżej 1920 x 1080 pikseli"
+
+#: admin/inc/settings_side.php:15
+msgid ""
+"Auto optimize all image alt texts (including Woocommerce online store), of "
+"your pages, posts & products, from Yoast SEO optimization settings (keywords)"
+" and/or Post title."
+msgstr ""
+"Automatycznie optymalizuj wszystkie teksty alternatywne obrazu (w tym sklep "
+"internetowy Woocommerce), swoich stron, postów i produktów, z ustawień "
+"optymalizacji Yoast SEO (słowa kluczowe) i / lub tytułu posta."
+
+#: admin/inc/settings_side.php:25
+msgid ""
+"Auto optimize all image title texts (including Woocommerce online store), of "
+"your pages, posts & products, with Post title, Image name, website title etc."
+msgstr ""
+"Automatycznie optymalizuj wszystkie teksty tytułów obrazów (w tym sklepu "
+"internetowego Woocommerce), swoich stron, postów i produktów, z tytułem "
+"posta, nazwą obrazu, tytułem strony internetowej itp."
+
+#: admin/inc/settings_seo.php:5
+msgid "Boost your local ranking with a \"Local Business Schema\""
+msgstr "Popraw lokalną pozycję w rankingu za pomocą „schematu lokalnej firmy”"
+
+#: admin/inc/settings_side.php:3
+msgid "Boost your website ranking"
+msgstr "Popraw ranking swojej witryny"
+
+#: admin/inc/settings_faq.php:63
+msgid "Can I customize Marker Icon ?"
+msgstr "Czy mogę dostosować ikonę znacznika?"
+
+#: admin/inc/metabox_form.php:4
+msgid "Choose Map Type:"
+msgstr "Wybierz typ mapy:"
+
+#: includes/shortcode.php:85
+msgid ""
+"Choose Street View or Basic Map Type. Street View + Map Works in WP Google "
+"Street View Pro Version"
+msgstr ""
+"Wybierz Street View lub Podstawowy typ mapy. Street View + Map działa w "
+"wersji WP Google Street View Pro"
+
+#: admin/inc/settings_seo.php:275
+msgid "City"
+msgstr "Miasto"
+
+#: admin/inc/metabox_form.php:115
+msgid "Click to Preview Your Map"
+msgstr "Kliknij, aby wyświetlić podgląd mapy"
+
+#: admin/inc/metabox_side.php:11
+msgid ""
+"Copy / paste the generated \"shortcode\" to the desired location on your "
+"website. You can adjust the personalization parameters later, simply by "
+"editing the MAP."
+msgstr ""
+"Skopiuj / wklej wygenerowany „krótki kod” w wybrane miejsce na swojej "
+"stronie internetowej. Możesz później dostosować parametry personalizacji, po "
+"prostu edytując MAPĘ."
+
+#: admin/inc/settings_seo.php:260
+msgid "Country "
+msgstr "Kraj"
+
+#: admin/inc/tabs/infobox.php:77 admin/inc/tabs/infobox.php:94
+msgid "Custom Content for Infobox (you can use html)"
+msgstr "Treść niestandardowa dla Infobox (możesz użyć html)"
+
+#: admin/inc/tabs/infobox.php:22
+msgid "Custom Content Inside Info Box?"
+msgstr "Pole informacyjne Custom Content Inside?"
+
+#: admin/inc/tabs/marker.php:86
+msgid "Custom Marker Icon URL"
+msgstr "Adres URL niestandardowej ikony znacznika"
+
+#: admin/inc/tabs/styles.php:34
+msgid "Custom Style"
+msgstr "Styl niestandardowy"
+
+#: admin/inc/metabox_form.php:70 admin/inc/tabs/infobox.php:5
+msgid "Customize Info Box on Marker"
+msgstr "Dostosuj okno informacyjne w Markerze"
+
+#: admin/inc/metabox_side.php:9
+msgid "Customize the maps (Marker, Layers, Styles, ...)"
+msgstr "Dostosuj mapy (znacznik, warstwy, style, ...)"
+
+#: admin/inc/tabs/infobox.php:52 admin/inc/tabs/infobox.php:62
+msgid "Define Max Width (numbers only):"
+msgstr "Zdefiniuj maksymalną szerokość (tylko liczby):"
+
+#: admin/inc/metabox_side.php:7
+msgid ""
+"Define the size of the Map (note that a size of 100% means that the map will "
+"adapt to the space available depending on whether you are using \"grid\" or "
+"\"full width\")."
+msgstr ""
+"Zdefiniuj rozmiar mapy (zwróć uwagę, że rozmiar 100% oznacza, że mapa "
+"dostosuje się do dostępnej przestrzeni w zależności od tego, czy używasz "
+"„siatki”, czy „pełnej szerokości”)."
+
+#: admin/inc/settings_seo.php:180
+msgid "Description"
+msgstr "Opis"
+
+#: admin/inc/tabs/marker.php:35
+msgid ""
+"Disable it if you only want to show marker but when user click or mouse over "
+"on it then display the infobox. You can choose Open Method below"
+msgstr ""
+"Wyłącz to, jeśli chcesz tylko wyświetlać znacznik, ale gdy użytkownik "
+"kliknie lub najedzie na niego myszką, wyświetl infobox. Możesz wybrać metodę "
+"otwartą poniżej"
+
+#: admin/cpt.php:15
+msgid "Edit Item"
+msgstr "Edytuj rzecz"
+
+#: admin/inc/tabs/layers.php:19
+msgid "Enable Bicycle Layer?"
+msgstr "Włączyć warstwę rowerową?"
+
+#: admin/inc/tabs/layers.php:37
+msgid "Enable Traffic Layer?"
+msgstr "Włączyć warstwę ruchu?"
+
+#: admin/inc/tabs/layers.php:55
+msgid "Enable Transport Layer?"
+msgstr "Włączyć warstwę transportową?"
+
+#: admin/inc/metabox_side.php:4
+msgid ""
+"Enter the target address OR use our geolocation tool (Google Autocomplete "
+"will help you complete your address and will automatically acquire the "
+"longitude and latitude of the target location)."
+msgstr ""
+"Wprowadź adres docelowy LUB skorzystaj z naszego narzędzia do geolokalizacji "
+"(Google Autocomplete pomoże Ci uzupełnić adres i automatycznie uzyska "
+"długość i szerokość geograficzną lokalizacji docelowej)."
+
+#: admin/cpt.php:19
+msgid "Featured Image"
+msgstr "Przedstawiony obraz"
+
+#: admin/cpt.php:27
+msgid "Filter items list"
+msgstr "Filtruj listę elementów"
+
+#: admin/inc/tabs/general-settings.php:12
+msgid "Find my current location"
+msgstr "Znajdź moją aktualną lokalizację"
+
+#: admin/inc/settings_faq.php:25
+#, php-format
+msgid ""
+"Free version allows you to use either Google Street View or Google Maps. If "
+"you want to have both features available on a single map so  synchronized "
+"Street View and Maps, then you need to upgrade to <a href=\"%s\">PRO</a>. "
+"Please note that Google maps options (markers, styles, etc.) do not work "
+"with Google Street View."
+msgstr ""
+"Darmowa wersja umożliwia korzystanie z Google Street View lub Google Maps. "
+"Jeśli chcesz, aby obie funkcje były dostępne na jednej mapie, tak więc "
+"zsynchronizowane Street View i Mapy, musisz uaktualnić do <a href=\"%s\">"
+"PRO</a> . Należy pamiętać, że opcje map Google (znaczniki, style itp.) Nie "
+"działają z Google Street View."
+
+#: admin/inc/metabox_form.php:68
+msgid "General Settings"
+msgstr "Ustawienia główne"
+
+#: admin/inc/settings_seo.php:219
+msgid "GeoCoordinates"
+msgstr "GeoCoordinates"
+
+#: admin/inc/settings_side.php:7
+msgid "Get Better Robots.txt &raquo;"
+msgstr "Pobierz Better Robots.txt »"
+
+#: admin/inc/settings_side.php:17
+msgid "Get BIALTY by Pagup &raquo;"
+msgstr "Zdobądź BIALTY przez Pagup »"
+
+#: admin/inc/settings_side.php:27
+msgid "Get BIGTA by Pagup &raquo;"
+msgstr "Zdobądź BIGTA przez Pagup »"
+
+#: admin/inc/settings_side.php:37
+msgid "Get Mobilook by Pagup &raquo;"
+msgstr "Pobierz Mobilook przez Pagup »"
+
+#: admin/inc/settings_form.php:43
+msgid "Get Your Google MAPS API in 3 Steps"
+msgstr "Uzyskaj Google MAPS API w 3 krokach"
+
+#: admin/inc/settings_form.php:8 admin/inc/settings_form_bkup.php:8
+msgid "Google Maps Api Key"
+msgstr "Klucz Google Maps Api"
+
+#: wp-google-street-view.php:89
+#, php-format
+msgid ""
+"Hey %1$s, %2$s Click on Allow & Continue to create highly attractive maps "
+"with Wp Google Street View plugin.  %2$s Never miss an important update -- "
+"opt-in to our security and feature updates notifications. %2$s See you on "
+"the other side."
+msgstr ""
+"Hej% 1 $ s,% 2 $ s Kliknij Zezwól i kontynuuj, aby tworzyć bardzo atrakcyjne "
+"mapy za pomocą wtyczki Wp Google Street View. % 2 $ s Nigdy nie przegap "
+"ważnej aktualizacji - zaakceptuj nasze powiadomienia o aktualizacjach "
+"zabezpieczeń i funkcji. % 2 $ s Do zobaczenia po drugiej stronie."
+
+#: admin/inc/settings_seo.php:42
+msgid "Homepage OR Select a page >"
+msgstr "Strona główna LUB Wybierz stronę>"
+
+#: admin/inc/settings_faq.php:71
+msgid "How can I style the maps?"
+msgstr "Jak mogę stylizować mapy?"
+
+#: admin/inc/settings_faq.php:39
+msgid ""
+"How to adjust or modifiy a map (height, width, marker, infobox, ...) once "
+"created ?"
+msgstr ""
+"Jak dostosować lub zmodyfikować mapę (wysokość, szerokość, znacznik, infobox,"
+" ...) po utworzeniu?"
+
+#: admin/inc/settings_faq.php:55
+msgid "How to correct or adjust the view on Google Street View ?"
+msgstr "Jak poprawić lub dostosować widok w Google Street View?"
+
+#: admin/inc/settings_faq.php:47
+msgid "How to locate my current position ?"
+msgstr "Jak znaleźć moją aktualną pozycję?"
+
+#: admin/inc/settings_faq.php:23
+msgid "How to use Google Street View with Google Maps ?"
+msgstr "Jak korzystać z Google Street View z Google Maps?"
+
+#. Author URI of the plugin
+msgid "https://pagup.com/"
+msgstr "https://pagup.com/"
+
+#: admin/inc/settings_faq.php:15
+msgid ""
+"I have this message: \"You must enable Billing on the Google Cloud Project "
+"at https://console.cloud.google.com/project/_/billing/enable ... \""
+msgstr ""
+"Mam ten komunikat: „Musisz włączyć rozliczenia w projekcie Google Cloud na "
+"https://console.cloud.google.com/project/_/billing/enable ...”"
+
+#: admin/inc/settings_seo.php:275
+msgid "i.e New York City"
+msgstr "czyli Nowy Jork"
+
+#: admin/inc/metabox_side.php:5
+msgid ""
+"If using Google Street View only, make to to correct or adjust the view "
+"displayed (Zoom in/out, Point of View), then SAVE."
+msgstr ""
+"Jeśli korzystasz tylko z Google Street View, wykonaj, aby poprawić lub "
+"dostosować wyświetlany widok (powiększanie / pomniejszanie, punkt widoku), a "
+"następnie ZAPISZ."
+
+#: admin/inc/settings_seo.php:77
+msgid "include http:// or https://"
+msgstr "dołącz http: // lub https: //"
+
+#: admin/inc/settings_form_bkup.php:86 admin/inc/tabs/marker.php:31
+msgid "Info Box Open by Default"
+msgstr "Okno informacyjne Otwórz domyślnie"
+
+#: admin/inc/tabs/marker.php:63
+msgid "Info Box Open Method?"
+msgstr "Metoda otwierania okna informacyjnego?"
+
+#: admin/cpt.php:23
+msgid "Insert into item"
+msgstr "Wstaw do elementu"
+
+#: admin/inc/settings_side.php:35
+msgid ""
+"Instant mobile view of website (pages, posts, products) for responsive web "
+"design on phone (+ dualscreen). This plugin also offers helpful tools on "
+"each page, such as Facebook Debugger, LinkedIn Post Inspector, and Google "
+"Mobile-Friendly Test Tool."
+msgstr ""
+"Natychmiastowy mobilny podgląd strony internetowej (strony, posty, produkty) "
+"do responsywnego projektowania stron internetowych na telefonie (+ podwójny "
+"ekran). Ta wtyczka oferuje również przydatne narzędzia na każdej stronie, "
+"takie jak Facebook Debugger, LinkedIn Post Inspector i Google Mobile-"
+"Friendly Test Tool."
+
+#: admin/inc/settings_side.php:33
+msgid "Instant Mobile Viewer"
+msgstr "Instant Mobile Viewer"
+
+#: admin/inc/settings_faq.php:79
+msgid "Is WP Google Street View responsive?"
+msgstr "Czy WP Google Street View reaguje?"
+
+#: admin/inc/settings_faq.php:17
+msgid ""
+"It means that you did not enable \"Billing\" (https://www.youtube.com/watch?"
+"v=uINleRduCWM) on Google Cloud Platform. Since July 16, 2018, Google has "
+"changed its policy. You need to add billing information to use Google Maps "
+"API. Once your API KEY is created, make sure to enable \"Billing\" (https:"
+"//console.cloud.google.com/project/_/billing/enable). Google will activate a "
+"Free TRIAL credit of 300$ (no need to pay anything). If ever you see a "
+"warning message on Map like “This page can’t load Google Maps correctly“, "
+"please have a look on google developers documentation.  Please wait a few "
+"minutes before you try again."
+msgstr ""
+"Oznacza to, że nie włączyłeś „Płatności” (https://www.youtube.com/watch?"
+"v=uINleRduCWM) w Google Cloud Platform. Od 16 lipca 2018 roku firma Google "
+"zmieniła swoje zasady. Aby korzystać z interfejsu API Map Google, musisz "
+"dodać informacje rozliczeniowe. Po utworzeniu klucza API pamiętaj, aby "
+"włączyć „Płatności” (https://console.cloud.google."
+"com/project/_/billing/enable). Google aktywuje darmowy kredyt w wysokości "
+"300 $ (nie trzeba nic płacić). Jeśli kiedykolwiek zobaczysz komunikat "
+"ostrzegawczy na mapie, np. „Ta strona nie może poprawnie załadować Map "
+"Google”, zapoznaj się z dokumentacją Google dla programistów. Poczekaj kilka "
+"minut, zanim spróbujesz ponownie."
+
+#: admin/cpt.php:25
+msgid "Items list"
+msgstr "Lista przedmiotów"
+
+#: admin/cpt.php:26
+msgid "Items list navigation"
+msgstr "Nawigacja po liście pozycji"
+
+#: admin/inc/settings_faq.php:73
+msgid ""
+"Just go to the \"Styles\" section of your map and select from the existing "
+"ones. If you don not find the one you need, you can code it yourself in "
+"\"Custom map style\"."
+msgstr ""
+"Po prostu przejdź do sekcji „Style” na mapie i wybierz spośród istniejących. "
+"Jeśli nie znajdziesz tej, której potrzebujesz, możesz ją samodzielnie "
+"zakodować w „Niestandardowym stylu mapy”."
+
+#: admin/inc/settings_form_bkup.php:28 admin/inc/settings_seo.php:222 
+#: admin/inc/tabs/general-settings.php:19
+msgid "Latitude"
+msgstr "Szerokość"
+
+#: admin/inc/metabox_form.php:72 admin/inc/tabs/layers.php:3
+msgid "Layers"
+msgstr "Warstwy"
+
+#: admin/inc/settings_seo.php:9
+msgid ""
+"Local business schema is a type of structured data markup code you can add "
+"to your business's website to make it easier for search engines to identify "
+"what type of organization you are and what you do."
+msgstr ""
+"Schemat lokalnej firmy to rodzaj kodu znaczników danych strukturalnych, "
+"który możesz dodać do witryny swojej firmy, aby ułatwić wyszukiwarkom "
+"identyfikację typu organizacji i tego, co robisz."
+
+#: admin/inc/settings_form_bkup.php:33 admin/inc/settings_seo.php:237 
+#: admin/inc/tabs/general-settings.php:24
+msgid "Longitude"
+msgstr "Długość geograficzna"
+
+#: admin/inc/tabs/general-settings.php:48
+msgid "Map Height <i>(in numbers only. e.g: 450)</i>"
+msgstr "Wysokość mapy <i> (tylko w liczbach, np .: 450) </i>"
+
+#: admin/inc/tabs/general-settings.php:43
+msgid "Map Width <i>(include % or px. e.g: 100%)</i>"
+msgstr "Szerokość mapy <i> (uwzględnij% lub piks. Np .: 100%) </i>"
+
+#: admin/inc/metabox_form.php:69 admin/inc/tabs/marker.php:5
+msgid "Marker"
+msgstr "Znacznik"
+
+#: admin/inc/settings_form_bkup.php:49 admin/inc/tabs/marker.php:45
+msgid "Marker Animation"
+msgstr "Animacja markera"
+
+#: admin/inc/metabox_form.php:64
+msgid "Marker, Info Box, Styles and Layers will not work in Street view only."
+msgstr ""
+"Znacznik, okno informacyjne, style i warstwy nie działają tylko w widoku "
+"ulicy."
+
+#: admin/cpt.php:14
+msgid "New Item"
+msgstr "Nowa pozycja"
+
+#: admin/cpt.php:17
+msgid "Not found"
+msgstr "Nie znaleziono"
+
+#: admin/cpt.php:18
+msgid "Not found in Trash"
+msgstr "Nie znaleziono w Koszu"
+
+#: admin/inc/settings_faq.php:65
+msgid ""
+"Of course. By default, we provide the standard Google Map marker. However, "
+"if you want to customize it, you just need to upload it to your site (Media "
+"Library), identify its URL and paste it into the \"Marker\" section of your "
+"map."
+msgstr ""
+"Oczywiście. Domyślnie zapewniamy standardowy znacznik Google Map. Jeśli "
+"jednak chcesz go dostosować, wystarczy załadować go do swojej witryny "
+"(Biblioteki multimediów), zidentyfikować jego adres URL i wkleić go w sekcji "
+"„Znacznik” na mapie."
+
+#: admin/inc/settings_faq.php:31
+msgid "Once created, how do I use this shortcode ?"
+msgstr "Po utworzeniu, jak używać tego skrótu?"
+
+#: admin/inc/settings_faq.php:41
+msgid ""
+"Once your map is created and your shortsoce added to your website, you can "
+"always modify all details (style, address, etc.) by editing this shortcode "
+"on Wp Google Street View / All items. They will apply automatically on your "
+"page/post. If not, clear your cache."
+msgstr ""
+"Po utworzeniu mapy i dodaniu shortoce do witryny internetowej zawsze możesz "
+"zmodyfikować wszystkie szczegóły (styl, adres itp.), Edytując ten krótki kod "
+"w Wp Google Street View / All items. Zostaną automatycznie zastosowane na "
+"Twojej stronie / poście. Jeśli nie, wyczyść pamięć podręczną."
+
+#: admin/inc/settings_seo.php:194
+msgid "Operation Hours"
+msgstr "Godziny pracy"
+
+#: admin/inc/settings_side.php:13
+msgid "Optimize your ALT TEXT"
+msgstr "Zoptymalizuj swój ALT TEXT"
+
+#: admin/inc/settings_side.php:5
+msgid ""
+"Optimize your Robots.txt with Better Robots.txt (made by PAGUP) & Boost your "
+"ranking on search engines."
+msgstr ""
+"Zoptymalizuj swój plik Robots.txt za pomocą Better Robots.txt (stworzonego "
+"przez PAGUP) i popraw swój ranking w wyszukiwarkach."
+
+#: admin/inc/settings_side.php:23
+msgid "Optimize your Title TEXT"
+msgstr "Zoptymalizuj tekst tytułu"
+
+#: admin/inc/settings_seo.php:92
+msgid "Organization or Business name *"
+msgstr "Nazwa organizacji lub firmy *"
+
+#: admin/inc/settings_faq.php:57
+msgid ""
+"Over time, we realized that Google Street View did not always provide the "
+"exact view for a location. Also, there can be a situation where the \"view\" "
+"to be shown is inside a store (360 ° virtual tour). This is why, whether "
+"with Google Street View only, or Google Maps and Google Street View, it is "
+"now possible to adjust the view, the zoom and even the precise location to "
+"be displayed and save these parameters. So when creating your \"maps\", be "
+"sure to adjust Street View to show your visitors exactly what you want them "
+"to see."
+msgstr ""
+"Z biegiem czasu zdaliśmy sobie sprawę, że Google Street View nie zawsze "
+"zapewniał dokładny widok dla lokalizacji. Może również zaistnieć sytuacja, w "
+"której „widok” do wyświetlenia znajduje się wewnątrz sklepu (wirtualny "
+"spacer 360 °). Dlatego, czy to tylko z Google Street View, czy z Google Maps "
+"i Google Street View, można teraz dostosować widok, powiększenie, a nawet "
+"dokładną lokalizację do wyświetlenia i zapisać te parametry. Dlatego podczas "
+"tworzenia „map” pamiętaj o dostosowaniu Street View, aby pokazać "
+"odwiedzającym dokładnie to, co chcesz, aby zobaczyli."
+
+#. Author of the plugin
+msgid "Pagup"
+msgstr "Pagup"
+
+#: admin/cpt.php:10
+msgid "Parent Item:"
+msgstr "Przedmiot nadrzędny:"
+
+#: includes/shortcode.php:94
+msgid "Please add correct post id for WP Google Street View"
+msgstr "Dodaj poprawny identyfikator posta dla WP Google Street View"
+
+#: includes/shortcode.php:29
+msgid "Please add post ID to see WP Google Street View"
+msgstr "Dodaj identyfikator posta, aby zobaczyć WP Google Street View"
+
+#: admin/inc/settings_form.php:12
+#, php-format
+msgid ""
+"Please check <a href=\"%s\">HERE</a> to learn how to create a Google Maps "
+"API, it takes 2 min. MAX"
+msgstr ""
+"Sprawdź <a href=\"%s\">TUTAJ,</a> aby dowiedzieć się, jak stworzyć Google "
+"Maps API, zajmie to 2 minuty. MAX"
+
+#: admin/inc/tabs/marker.php:89
+msgid ""
+"Please upload a marker to media library and paste a direct link here. "
+"Recommended Size: 72x72 pixels "
+msgstr ""
+"Prześlij znacznik do biblioteki multimediów i wklej tutaj bezpośredni link. "
+"Zalecany rozmiar: 72 x 72 piksele"
+
+#: admin/cpt.php:6
+msgctxt "Post Type General Name"
+msgid "WP Google Street View"
+msgstr "WP Google Street View"
+
+#: admin/cpt.php:7
+msgctxt "Post Type Singular Name"
+msgid "WP Google Street View"
+msgstr "WP Google Street View"
+
+#: admin/inc/settings_seo.php:305
+msgid "Postal Code"
+msgstr "kod pocztowy"
+
+#: admin/inc/settings_seo.php:150
+msgid "Price Range"
+msgstr "Przedział cenowy"
+
+#: admin/inc/settings_seo.php:251
+msgid "Refer to map setting page to identify your latitude / longitude"
+msgstr ""
+"Skorzystaj ze strony ustawień mapy, aby określić swoją szerokość / długość "
+"geograficzną"
+
+#: admin/inc/settings_seo.php:290
+msgid "Region"
+msgstr "Region"
+
+#: admin/cpt.php:21
+msgid "Remove featured image"
+msgstr "Usuń wyróżniony obraz"
+
+#: admin/inc/settings_form.php:24 admin/inc/settings_form_bkup.php:103 
+#: admin/inc/settings_seo.php:353
+msgid "Remove Settings"
+msgstr "Usuń ustawienia"
+
+#: admin/inc/settings_form.php:30 admin/inc/settings_form_bkup.php:109 
+#: admin/inc/settings_seo.php:362 admin/inc/settings_seo.php:366
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: admin/inc/settings_seo.php:7
+msgid ""
+"Schema is a foundation for markup data that allows search engines to better "
+"understand location-based structured information like addresses, dates of "
+"events, phone numbers, and other information."
+msgstr ""
+"Schemat to podstawa danych znaczników, która umożliwia wyszukiwarkom lepsze "
+"zrozumienie ustrukturyzowanych informacji opartych na lokalizacji, takich "
+"jak adresy, daty wydarzeń, numery telefonów i inne informacje."
+
+#: includes/shortcode_button.php:14
+msgid "Select Google Street View / Map"
+msgstr "Wybierz Google Street View / Map"
+
+#: admin/inc/metabox_side.php:2
+msgid ""
+"Select the type of MAP you want to create (Google Street View OR Google "
+"Street view + Google Map OR Google Maps)"
+msgstr ""
+"Wybierz typ mapy, którą chcesz utworzyć (Google Street View LUB Google "
+"Street View + Google Map LUB Google Maps)"
+
+#: admin/cpt.php:20
+msgid "Set featured image"
+msgstr "Ustaw wyróżniony obraz"
+
+#: admin/inc/tabs/infobox.php:40
+msgid "Set Max Width for Info Box?"
+msgstr "Ustawić maksymalną szerokość dla pola informacyjnego?"
+
+#: admin/settings.php:31
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/inc/settings_form_bkup.php:77 admin/inc/tabs/marker.php:22
+msgid "Show Info Box"
+msgstr "Pokaż okno informacyjne"
+
+#: admin/inc/settings_form_bkup.php:68 admin/inc/tabs/marker.php:13
+msgid "Show Marker"
+msgstr "Pokaż znacznik"
+
+#: admin/inc/settings_seo.php:118
+msgid "Site Image"
+msgstr "Obraz witryny"
+
+#: admin/inc/settings_seo.php:290
+msgid "State (i.e. CA)"
+msgstr "Stan (tj. CA)"
+
+#: admin/inc/metabox_side.php:2 admin/inc/metabox_side.php:4 
+#: admin/inc/metabox_side.php:7 admin/inc/metabox_side.php:9 
+#: admin/inc/metabox_side.php:11
+msgid "Step"
+msgstr "Krok"
+
+#: admin/inc/settings_seo.php:25
+msgid "Step 1: Add Schema Data on:"
+msgstr "Krok 1: Dodaj dane schematu do:"
+
+#: admin/inc/settings_seo.php:73
+msgid "Step 2: Fill Out The Form"
+msgstr "Krok 2: Wypełnij formularz"
+
+#: admin/inc/settings_seo.php:320
+msgid "Street Address"
+msgstr "Adres ulicy"
+
+#: admin/inc/metabox_form.php:71 admin/inc/tabs/styles.php:5
+msgid "Styles"
+msgstr "Style"
+
+#: admin/inc/settings_seo.php:165
+msgid "Telephone"
+msgstr "Telefon"
+
+#: admin/inc/settings_faq.php:33
+msgid ""
+"The easiest part! Once your map is created and optimized (with markers, "
+"styles, ...), Wp Google Street View will generate a shortcode (on top of the "
+"page) to copy-paste where ever needed. These maps will adjust automatically "
+"according to your layout and settings (grid, full width, ...)"
+msgstr ""
+"Najłatwiejsza część! Po utworzeniu i zoptymalizowaniu mapy (ze znacznikami, "
+"stylami, ...), Wp Google Street View wygeneruje krótki kod (na górze strony) "
+"do skopiowania i wklejenia tam, gdzie jest to potrzebne. Mapy te dostosują "
+"się automatycznie zgodnie z Twoim układem i ustawieniami (siatka, pełna "
+"szerokość, ...)"
+
+#: admin/inc/settings_faq.php:13
+msgid ""
+"The main reason why its recommended to apply restrictions is to help prevent "
+"unauthorised use of your quota ! We recommend to restrict your API key to "
+"specific websites (HTTP referrers). For example, if you want to limit this "
+"API key to all pages of your website (mysite.com), then select \"HTTP "
+"referrers\" (Key restrictions), then enter your website, with a * : mysite."
+"com/* (* for all pages on mysite.com). If you want to limit the use of "
+"specific APIs on this website, then, in API restrictions, select \"Restrict "
+"Key\" & identify these APIs (4 with Wp Google Street View)."
+msgstr ""
+"Głównym powodem, dla którego zaleca się stosowanie ograniczeń, jest "
+"zapobieganie nieautoryzowanemu wykorzystaniu limitu! Zalecamy ograniczenie "
+"klucza API do określonych witryn (odsyłaczy HTTP). Na przykład, jeśli chcesz "
+"ograniczyć ten klucz API do wszystkich stron swojej witryny internetowej "
+"(mysite.com), wybierz „HTTP referrers” (ograniczenia klucza), a następnie "
+"wprowadź swoją witrynę z dopiskiem *: mysite.com/* (* dla wszystkich stron w "
+"mysite.com). Jeśli chcesz ograniczyć korzystanie z określonych interfejsów "
+"API w tej witrynie, w sekcji Ograniczenia API wybierz „Ogranicz klucz” i "
+"zidentyfikuj te interfejsy API (4 z Wp Google Street View)."
+
+#: admin/inc/settings_seo.php:150
+msgid "The price range of the business, for example $$$"
+msgstr "Zakres cen firmy, na przykład $$$"
+
+#. Description of the plugin
+msgid ""
+"The WP Google Street View allows you to embed Google street View (with "
+"virtual tour) & Google Maps maps with high quality markers."
+msgstr ""
+"WP Google Street View umożliwia osadzenie Google Street View (z wirtualną "
+"wycieczką) i map Google Maps z wysokiej jakości markerami."
+
+#: admin/inc/settings_form.php:46
+msgid ""
+"Then, you have to enable 4 APIs : \"Places API, Maps Javascript API, "
+"Geocoding API and Directions API\"."
+msgstr ""
+"Następnie musisz włączyć 4 interfejsy API: „Places API, Maps Javascript API, "
+"Geocoding API i Directions API”."
+
+#: admin/inc/settings_faq.php:5
+msgid ""
+"This message could mean 2 things: either you did not enable all required "
+"APIs (you need 4 APIs to make plugin work properly), or you are limited by "
+"key restrictions/API restrictions. Please go to your account, https:"
+"//console.developers.google.com/, click on \"Credentials\" (left sade bar) > "
+"API Key (your project), then check your Key restrictions (None, Http "
+"referrers, Ip adresses, ...) or your API restrictions. You may need to copy-"
+"paste, once again, your API KEY on WpGoogle Street View setting page, then "
+"Save to make plugin work properly. Please wait a few minutes before you try "
+"again."
+msgstr ""
+"Ta wiadomość może oznaczać 2 rzeczy: albo nie włączyłeś wszystkich "
+"wymaganych interfejsów API (potrzebujesz 4 interfejsów API, aby wtyczka "
+"działała poprawnie), albo jesteś ograniczony kluczowymi ograniczeniami / "
+"ograniczeniami API. Wejdź na swoje konto, https://console.developers.google."
+"com/, kliknij „Dane logowania” (lewy pasek)> Klucz API (Twój projekt), a "
+"następnie sprawdź ograniczenia klucza (brak, strony odsyłające Http, adresy "
+"IP , ...) lub ograniczenia interfejsu API. Może być konieczne ponowne "
+"skopiowanie i wklejenie klucza API na stronie ustawień WpGoogle Street View, "
+"a następnie Zapisz, aby wtyczka działała poprawnie. Poczekaj kilka minut, "
+"zanim spróbujesz ponownie."
+
+#: admin/cpt.php:16
+msgid "Update Item"
+msgstr "Zaktualizuj element"
+
+#: admin/inc/settings_seo.php:136 admin/inc/settings_seo.php:140
+msgid "Upload Image"
+msgstr "Załaduj obrazek"
+
+#: admin/inc/tabs/marker.php:107 admin/inc/tabs/marker.php:111
+msgid "Upload Marker"
+msgstr "Prześlij znacznik"
+
+#: admin/cpt.php:24
+msgid "Uploaded to this item"
+msgstr "Przesłane do tego przedmiotu"
+
+#: admin/cpt.php:22
+msgid "Use as featured image"
+msgstr "Użyj jako wyróżnionego obrazu"
+
+#: admin/inc/settings_faq.php:49
+msgid ""
+"We have integrated, in the \"Address (Coordinates)\" section of settings "
+"page, a tool allowing you to geolocalize you via Google Maps (and Google "
+"Autocomplete). Once your location is found, Wp Google Street View will "
+"automatically deploys the corresponding address as well as longitude and "
+"latitude."
+msgstr ""
+"W sekcji „Adres (współrzędne)” strony ustawień zintegrowaliśmy narzędzie "
+"umożliwiające geolokalizację za pośrednictwem Google Maps (i Google "
+"Autocomplete). Po znalezieniu Twojej lokalizacji, Wp Google Street View "
+"automatycznie wdroży odpowiedni adres, a także długość i szerokość "
+"geograficzną."
+
+#: admin/inc/settings_seo.php:77
+msgid "Website Url"
+msgstr "Adres URL witryny"
+
+#: admin/inc/settings_faq.php:3
+msgid ""
+"What does it mean: \"This API projects is not authorized to use with this "
+"API\"?"
+msgstr ""
+"Co to znaczy: „Te projekty interfejsu API nie mają uprawnień do używania z "
+"tym interfejsem API”?"
+
+#: admin/inc/settings_faq.php:11
+msgid "Why do I have to apply restrictions with my API KEY?"
+msgstr "Dlaczego muszę nakładać ograniczenia na mój KLUCZ API?"
+
+#: admin/inc/tabs/general-settings.php:54
+msgid ""
+"Width and Height preview is not available. You will see it working on front-"
+"end. Don't add \"px\" or \"%\" for <strong>height</strong>. Map will not "
+"work."
+msgstr ""
+"Podgląd szerokości i wysokości nie jest dostępny. Zobaczysz, jak działa na "
+"front-endzie. Nie dodawaj „px” ani „%” jako <strong> wysokość </strong>. "
+"Mapa nie będzie działać."
+
+#: admin/inc/metabox_form.php:62
+msgid ""
+"With Street View, make sure to \"correct\" or \"adjust\" the view displayed "
+"with preview tool (Zoom in/out + Point of View), then SAVE."
+msgstr ""
+"W Street View pamiętaj o „poprawieniu” lub „dopasowaniu” widoku "
+"wyświetlanego za pomocą narzędzia podglądu (powiększanie / pomniejszanie + "
+"punkt widoku), a następnie ZAPISZ."
+
+#. id, used as the html id att
+#: admin/metabox.php:22 admin/cpt.php:8 admin/cpt.php:9 admin/cpt.php:30
+msgid "WP Google Street View"
+msgstr "WP Google Street View"
+
+#: admin/inc/settings_faq.php:80
+msgid "Wp Google Street View is 100% responsive and Mobile-Friendly."
+msgstr ""
+"WP Google Street View jest w 100% responsywny i przyjazny dla urządzeń "
+"mobilnych."
+
+#: admin/cpt.php:31
+msgid "WP Google Street View Post Type"
+msgstr "Typ WP Google Street View"
+
+#. Name of the plugin
+msgid "WP Google Street View Pro"
+msgstr "WP Google Street View Pro"
+
+#: admin/settings.php:30
+msgid "WP Google Street View Settings"
+msgstr "Ustawienia WP Google Street View"
+
+#. id, used as the html id att
+#: admin/metabox.php:110
+msgid "WP Google Street View, How to ...?"
+msgstr "WP Google Street View, jak ...?"
+
+#: admin/inc/settings_form.php:45
+msgid "You need a Google Account (Gsuite, Gmail, ...)"
+msgstr "Potrzebujesz konta Google (Gsuite, Gmail, ...)"
+
+#: admin/inc/settings_seo.php:165
+msgid "Your business telephone number"
+msgstr "Twój numer telefonu do firmy"
+
+#: admin/inc/settings_form_bkup.php:43 admin/inc/tabs/general-settings.php:33
+msgid "Zoom"
+msgstr "Powiększenie"

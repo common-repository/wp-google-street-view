@@ -1,0 +1,791 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Google Street View Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-25 22:01+0000\n"
+"PO-Revision-Date: 2021-05-25 22:36+0000\n"
+"Last-Translator: Gautier Dorval\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh-CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wp-google-street-view"
+
+#: admin/inc/metabox_form.php:4
+msgid ""
+"(Google Street View, Google Maps or Synchronized Street view + Maps) Check "
+"our DEMO"
+msgstr "（Google街景，Google地图或同步街景+地图）检查我们的演示"
+
+#: admin/inc/settings_seo.php:200
+msgid "- Add Opening Hours by separate line"
+msgstr "-通过单独的行添加营业时间"
+
+#: admin/inc/settings_seo.php:198
+msgid ""
+"- Days are specified using the following two-letter combinations: Mo, Tu, We,"
+" Th, Fr, Sa, Su."
+msgstr "-使用以下两个字母的组合指定天数：Mo，Tu，We，Th，Fr，Sa，Su。"
+
+#: admin/inc/settings_seo.php:199
+msgid ""
+"- Times are specified using 24:00 time. For example, 3pm is specified as 15:"
+"00."
+msgstr "-使用24:00时间指定时间。例如，将3pm指定为15:00。"
+
+#: admin/inc/settings_seo.php:385
+msgid "About Schema Markup"
+msgstr "关于架构标记"
+
+#: admin/cpt.php:13
+msgid "Add New"
+msgstr "添新"
+
+#: admin/cpt.php:12
+msgid "Add New Map"
+msgstr "新增地图"
+
+#: admin/inc/settings_seo.php:11
+msgid ""
+"Adding Local Business markup to your website translates your human-readable "
+"content into the machine-readable language of JSON-LD. This is a helpful way "
+"to help optimize <strong>your website for local SEO, as it's a major ranking "
+"factor.</strong>"
+msgstr ""
+"在您的网站上添加本地业务标记会将您可读的内容转换为JSON-LD的机器可读语言。这是帮助优化<strong>"
+"您的网站进行本地SEO的有用方法，因为它是主要的排名因素。</ strong>"
+
+#: admin/inc/settings_form_bkup.php:21 admin/inc/settings_seo.php:257
+msgid "Address"
+msgstr "地址"
+
+#: admin/inc/tabs/general-settings.php:7
+msgid "Address (Coordinates)"
+msgstr "地址（坐标）"
+
+#: admin/cpt.php:11
+msgid "All Items"
+msgstr "所有项目"
+
+#: admin/inc/settings_seo.php:118
+msgid "at least 160x90 pixels and at most 1920x1080 pixels"
+msgstr "至少160x90像素，最多1920x1080像素"
+
+#: admin/inc/settings_side.php:15
+msgid ""
+"Auto optimize all image alt texts (including Woocommerce online store), of "
+"your pages, posts & products, from Yoast SEO optimization settings (keywords)"
+" and/or Post title."
+msgstr "通过Yoast SEO优化设置（关键字）和/或帖子标题，自动优化页面，帖子和产品的所有图像替代文本（包括Woocommerce在线商店）。"
+
+#: admin/inc/settings_side.php:25
+msgid ""
+"Auto optimize all image title texts (including Woocommerce online store), of "
+"your pages, posts & products, with Post title, Image name, website title etc."
+msgstr "使用帖子标题，图片名称，网站标题等自动优化页面，帖子和产品的所有图片标题文本（包括Woocommerce在线商店）。"
+
+#: admin/inc/settings_seo.php:5
+msgid "Boost your local ranking with a \"Local Business Schema\""
+msgstr "通过“本地业务模式”提高本地排名"
+
+#: admin/inc/settings_side.php:3
+msgid "Boost your website ranking"
+msgstr "提升您的网站排名"
+
+#: admin/inc/settings_faq.php:63
+msgid "Can I customize Marker Icon ?"
+msgstr "我可以自定义标记图标吗？"
+
+#: admin/inc/metabox_form.php:4
+msgid "Choose Map Type:"
+msgstr "选择地图类型："
+
+#: includes/shortcode.php:85
+msgid ""
+"Choose Street View or Basic Map Type. Street View + Map Works in WP Google "
+"Street View Pro Version"
+msgstr "选择街景视图或基本地图类型。 WP Google Street View Pro版本中的Street View + Map Works"
+
+#: admin/inc/settings_seo.php:275
+msgid "City"
+msgstr "城市"
+
+#: admin/inc/metabox_form.php:115
+msgid "Click to Preview Your Map"
+msgstr "单击以预览您的地图"
+
+#: admin/inc/metabox_side.php:11
+msgid ""
+"Copy / paste the generated \"shortcode\" to the desired location on your "
+"website. You can adjust the personalization parameters later, simply by "
+"editing the MAP."
+msgstr "将生成的“简码”复制/粘贴到您网站上的所需位置。您可以稍后通过编辑MAP来调整个性化参数。"
+
+#: admin/inc/settings_seo.php:260
+msgid "Country "
+msgstr "国家"
+
+#: admin/inc/tabs/infobox.php:77 admin/inc/tabs/infobox.php:94
+msgid "Custom Content for Infobox (you can use html)"
+msgstr "信息框的自定义内容（可以使用html）"
+
+#: admin/inc/tabs/infobox.php:22
+msgid "Custom Content Inside Info Box?"
+msgstr "信息框中的自定义内容？"
+
+#: admin/inc/tabs/marker.php:86
+msgid "Custom Marker Icon URL"
+msgstr "自定义标记图标网址"
+
+#: admin/inc/tabs/styles.php:34
+msgid "Custom Style"
+msgstr "自订样式"
+
+#: admin/inc/metabox_form.php:70 admin/inc/tabs/infobox.php:5
+msgid "Customize Info Box on Marker"
+msgstr "自定义标记上的信息框"
+
+#: admin/inc/metabox_side.php:9
+msgid "Customize the maps (Marker, Layers, Styles, ...)"
+msgstr "自定义地图（标记，图层，样式等）"
+
+#: admin/inc/tabs/infobox.php:52 admin/inc/tabs/infobox.php:62
+msgid "Define Max Width (numbers only):"
+msgstr "定义最大宽度（仅数字）："
+
+#: admin/inc/metabox_side.php:7
+msgid ""
+"Define the size of the Map (note that a size of 100% means that the map will "
+"adapt to the space available depending on whether you are using \"grid\" or "
+"\"full width\")."
+msgstr "定义地图的大小（请注意，大小为100％表示地图将适应可用空间，具体取决于您使用的是“网格”还是“全宽”）。"
+
+#: admin/inc/settings_seo.php:180
+msgid "Description"
+msgstr "描述"
+
+#: admin/inc/tabs/marker.php:35
+msgid ""
+"Disable it if you only want to show marker but when user click or mouse over "
+"on it then display the infobox. You can choose Open Method below"
+msgstr "如果只想显示标记，则禁用它，但是当用户单击或将鼠标悬停在其上时，将显示信息框。您可以在下面选择打开方法"
+
+#: admin/cpt.php:15
+msgid "Edit Item"
+msgstr "编辑项目"
+
+#: admin/inc/tabs/layers.php:19
+msgid "Enable Bicycle Layer?"
+msgstr "启用单车图层？"
+
+#: admin/inc/tabs/layers.php:37
+msgid "Enable Traffic Layer?"
+msgstr "启用流量层？"
+
+#: admin/inc/tabs/layers.php:55
+msgid "Enable Transport Layer?"
+msgstr "启用传输层？"
+
+#: admin/inc/metabox_side.php:4
+msgid ""
+"Enter the target address OR use our geolocation tool (Google Autocomplete "
+"will help you complete your address and will automatically acquire the "
+"longitude and latitude of the target location)."
+msgstr "输入目标地址或使用我们的地理位置工具（Google自动填充功能将帮助您完成地址，并自动获取目标位置的经度和纬度）。"
+
+#: admin/cpt.php:19
+msgid "Featured Image"
+msgstr "特色图片"
+
+#: admin/cpt.php:27
+msgid "Filter items list"
+msgstr "筛选项目清单"
+
+#: admin/inc/tabs/general-settings.php:12
+msgid "Find my current location"
+msgstr "查找我的当前位置"
+
+#: admin/inc/settings_faq.php:25
+#, php-format
+msgid ""
+"Free version allows you to use either Google Street View or Google Maps. If "
+"you want to have both features available on a single map so  synchronized "
+"Street View and Maps, then you need to upgrade to <a href=\"%s\">PRO</a>. "
+"Please note that Google maps options (markers, styles, etc.) do not work "
+"with Google Street View."
+msgstr ""
+"免费版允许您使用Google Street View或Google "
+"Maps。如果您想在单个地图上同时使用这两种功能，以使街景视图和地图同步，则需要升级到<a href=\"%s\">PRO</a> "
+"。请注意，Google地图选项（标记，样式等）不适用于Google Street View。"
+
+#: admin/inc/metabox_form.php:68
+msgid "General Settings"
+msgstr "常规设置"
+
+#: admin/inc/settings_seo.php:219
+msgid "GeoCoordinates"
+msgstr "地理坐标"
+
+#: admin/inc/settings_side.php:7
+msgid "Get Better Robots.txt &raquo;"
+msgstr "获得更好的Robots.txt»"
+
+#: admin/inc/settings_side.php:17
+msgid "Get BIALTY by Pagup &raquo;"
+msgstr "通过Pagup获取BIALTY»"
+
+#: admin/inc/settings_side.php:27
+msgid "Get BIGTA by Pagup &raquo;"
+msgstr "通过Pagup获取BIGTA»"
+
+#: admin/inc/settings_side.php:37
+msgid "Get Mobilook by Pagup &raquo;"
+msgstr "通过Pagup获取Mobilook»"
+
+#: admin/inc/settings_form.php:43
+msgid "Get Your Google MAPS API in 3 Steps"
+msgstr "3个步骤即可获取您的Google MAPS API"
+
+#: admin/inc/settings_form.php:8 admin/inc/settings_form_bkup.php:8
+msgid "Google Maps Api Key"
+msgstr "Google Maps Api密钥"
+
+#: wp-google-street-view.php:89
+#, php-format
+msgid ""
+"Hey %1$s, %2$s Click on Allow & Continue to create highly attractive maps "
+"with Wp Google Street View plugin.  %2$s Never miss an important update -- "
+"opt-in to our security and feature updates notifications. %2$s See you on "
+"the other side."
+msgstr ""
+"嘿％1 $ s，％2 $ s单击“允许并继续”，使用Wp Google街景视图插件创建极具吸引力的地图。 ％2 $ s绝不要错过重要更新-"
+"选择加入我们的安全和功能更新通知。 ％2 $ s在另一边见。"
+
+#: admin/inc/settings_seo.php:42
+msgid "Homepage OR Select a page >"
+msgstr "主页或选择一个页面>"
+
+#: admin/inc/settings_faq.php:71
+msgid "How can I style the maps?"
+msgstr "如何为地图设置样式？"
+
+#: admin/inc/settings_faq.php:39
+msgid ""
+"How to adjust or modifiy a map (height, width, marker, infobox, ...) once "
+"created ?"
+msgstr "创建后如何调整或修改地图（高度，宽度，标记，信息框等）？"
+
+#: admin/inc/settings_faq.php:55
+msgid "How to correct or adjust the view on Google Street View ?"
+msgstr "如何更正或调整Google Street View上的视图？"
+
+#: admin/inc/settings_faq.php:47
+msgid "How to locate my current position ?"
+msgstr "如何找到我目前的位置？"
+
+#: admin/inc/settings_faq.php:23
+msgid "How to use Google Street View with Google Maps ?"
+msgstr "如何在Google Maps中使用Google Street View？"
+
+#. Author URI of the plugin
+msgid "https://pagup.com/"
+msgstr "https://pagup.com/"
+
+#: admin/inc/settings_faq.php:15
+msgid ""
+"I have this message: \"You must enable Billing on the Google Cloud Project "
+"at https://console.cloud.google.com/project/_/billing/enable ... \""
+msgstr ""
+"我收到此消息：“您必须通过https://console.cloud.google.com/project/_/billing/enable ..."
+"在Google Cloud Project上启用计费功能。”"
+
+#: admin/inc/settings_seo.php:275
+msgid "i.e New York City"
+msgstr "即纽约市"
+
+#: admin/inc/metabox_side.php:5
+msgid ""
+"If using Google Street View only, make to to correct or adjust the view "
+"displayed (Zoom in/out, Point of View), then SAVE."
+msgstr "如果仅使用Google街景，请先进行纠正或调整显示的视图（放大/缩小，视角），然后进行保存。"
+
+#: admin/inc/settings_seo.php:77
+msgid "include http:// or https://"
+msgstr "包括http：//或https：//"
+
+#: admin/inc/settings_form_bkup.php:86 admin/inc/tabs/marker.php:31
+msgid "Info Box Open by Default"
+msgstr "信息框默认打开"
+
+#: admin/inc/tabs/marker.php:63
+msgid "Info Box Open Method?"
+msgstr "信息框打开方法？"
+
+#: admin/cpt.php:23
+msgid "Insert into item"
+msgstr "插入项目"
+
+#: admin/inc/settings_side.php:35
+msgid ""
+"Instant mobile view of website (pages, posts, products) for responsive web "
+"design on phone (+ dualscreen). This plugin also offers helpful tools on "
+"each page, such as Facebook Debugger, LinkedIn Post Inspector, and Google "
+"Mobile-Friendly Test Tool."
+msgstr ""
+"网站（页面，帖子，产品）的即时移动视图，可在手机（+双屏）上进行响应式网页设计。该插件还在每个页面上提供了有用的工具，例如Facebook "
+"Debugger，LinkedIn Post Inspector和Google Mobile-Friendly Test Tool。"
+
+#: admin/inc/settings_side.php:33
+msgid "Instant Mobile Viewer"
+msgstr "即时移动查看器"
+
+#: admin/inc/settings_faq.php:79
+msgid "Is WP Google Street View responsive?"
+msgstr "WP Google Street View是否响应？"
+
+#: admin/inc/settings_faq.php:17
+msgid ""
+"It means that you did not enable \"Billing\" (https://www.youtube.com/watch?"
+"v=uINleRduCWM) on Google Cloud Platform. Since July 16, 2018, Google has "
+"changed its policy. You need to add billing information to use Google Maps "
+"API. Once your API KEY is created, make sure to enable \"Billing\" (https:"
+"//console.cloud.google.com/project/_/billing/enable). Google will activate a "
+"Free TRIAL credit of 300$ (no need to pay anything). If ever you see a "
+"warning message on Map like “This page can’t load Google Maps correctly“, "
+"please have a look on google developers documentation.  Please wait a few "
+"minutes before you try again."
+msgstr ""
+"这意味着您没有在Google Cloud Platform上启用“结算”（https://www.youtube.com/watch?"
+"v=uINleRduCWM）。自2018年7月16日起，谷歌已更改其政策。您需要添加结算信息才能使用Google Maps "
+"API。创建API密钥后，请确保启用“结算”（https://console.cloud.google."
+"com/project/_/billing/enable）。 "
+"Google将激活300美元的免费试用信用（无需支付任何费用）。如果您在地图上看到“此页面无法正确加载Google地图”之类的警告消息，请查看Google开发者文档。请等待几分钟，然后重试。"
+
+#: admin/cpt.php:25
+msgid "Items list"
+msgstr "物品清单"
+
+#: admin/cpt.php:26
+msgid "Items list navigation"
+msgstr "项目列表导航"
+
+#: admin/inc/settings_faq.php:73
+msgid ""
+"Just go to the \"Styles\" section of your map and select from the existing "
+"ones. If you don not find the one you need, you can code it yourself in "
+"\"Custom map style\"."
+msgstr "只需转到地图的“样式”部分，然后从现有样式中选择即可。如果找不到所需的地图，可以使用“自定义地图样式”自己编写。"
+
+#: admin/inc/settings_form_bkup.php:28 admin/inc/settings_seo.php:222 
+#: admin/inc/tabs/general-settings.php:19
+msgid "Latitude"
+msgstr "纬度"
+
+#: admin/inc/metabox_form.php:72 admin/inc/tabs/layers.php:3
+msgid "Layers"
+msgstr "层数"
+
+#: admin/inc/settings_seo.php:9
+msgid ""
+"Local business schema is a type of structured data markup code you can add "
+"to your business's website to make it easier for search engines to identify "
+"what type of organization you are and what you do."
+msgstr "本地业务模式是一种结构化的数据标记代码，您可以将其添加到业务的网站中，以使搜索引擎更容易识别您属于哪种类型的组织以及从事何种工作。"
+
+#: admin/inc/settings_form_bkup.php:33 admin/inc/settings_seo.php:237 
+#: admin/inc/tabs/general-settings.php:24
+msgid "Longitude"
+msgstr "经度"
+
+#: admin/inc/tabs/general-settings.php:48
+msgid "Map Height <i>(in numbers only. e.g: 450)</i>"
+msgstr "地图高度<i>（仅数字，例如450）</ i>"
+
+#: admin/inc/tabs/general-settings.php:43
+msgid "Map Width <i>(include % or px. e.g: 100%)</i>"
+msgstr "地图宽度<i>（包括％或px。例如：100％）</ i>"
+
+#: admin/inc/metabox_form.php:69 admin/inc/tabs/marker.php:5
+msgid "Marker"
+msgstr "记号笔"
+
+#: admin/inc/settings_form_bkup.php:49 admin/inc/tabs/marker.php:45
+msgid "Marker Animation"
+msgstr "标记动画"
+
+#: admin/inc/metabox_form.php:64
+msgid "Marker, Info Box, Styles and Layers will not work in Street view only."
+msgstr "标记，信息框，样式和图层仅在街景视图中不起作用。"
+
+#: admin/cpt.php:14
+msgid "New Item"
+msgstr "新物品"
+
+#: admin/cpt.php:17
+msgid "Not found"
+msgstr "未找到"
+
+#: admin/cpt.php:18
+msgid "Not found in Trash"
+msgstr "在垃圾桶中找不到"
+
+#: admin/inc/settings_faq.php:65
+msgid ""
+"Of course. By default, we provide the standard Google Map marker. However, "
+"if you want to customize it, you just need to upload it to your site (Media "
+"Library), identify its URL and paste it into the \"Marker\" section of your "
+"map."
+msgstr ""
+"当然。默认情况下，我们提供标准的Google "
+"Map标记。但是，如果要自定义它，只需将其上传到您的站点（媒体库），标识其URL并将其粘贴到地图的“标记”部分。"
+
+#: admin/inc/settings_faq.php:31
+msgid "Once created, how do I use this shortcode ?"
+msgstr "创建完成后，如何使用此简码？"
+
+#: admin/inc/settings_faq.php:41
+msgid ""
+"Once your map is created and your shortsoce added to your website, you can "
+"always modify all details (style, address, etc.) by editing this shortcode "
+"on Wp Google Street View / All items. They will apply automatically on your "
+"page/post. If not, clear your cache."
+msgstr ""
+"创建地图并将您的快捷方式添加到您的网站后，您随时可以通过在Wp "
+"Google街景视图/所有项上编辑此快捷方式来修改所有详细信息（样式，地址等）。它们将自动应用于您的页面/帖子。如果没有，请清除缓存。"
+
+#: admin/inc/settings_seo.php:194
+msgid "Operation Hours"
+msgstr "营业时间"
+
+#: admin/inc/settings_side.php:13
+msgid "Optimize your ALT TEXT"
+msgstr "优化您的ALT TEXT"
+
+#: admin/inc/settings_side.php:5
+msgid ""
+"Optimize your Robots.txt with Better Robots.txt (made by PAGUP) & Boost your "
+"ranking on search engines."
+msgstr "使用Better Robots.txt（由PAGUP制造）优化您的Robots.txt，并提高您在搜索引擎上的排名。"
+
+#: admin/inc/settings_side.php:23
+msgid "Optimize your Title TEXT"
+msgstr "优化您的标题文字"
+
+#: admin/inc/settings_seo.php:92
+msgid "Organization or Business name *"
+msgstr "机构名称或公司名称*"
+
+#: admin/inc/settings_faq.php:57
+msgid ""
+"Over time, we realized that Google Street View did not always provide the "
+"exact view for a location. Also, there can be a situation where the \"view\" "
+"to be shown is inside a store (360 ° virtual tour). This is why, whether "
+"with Google Street View only, or Google Maps and Google Street View, it is "
+"now possible to adjust the view, the zoom and even the precise location to "
+"be displayed and save these parameters. So when creating your \"maps\", be "
+"sure to adjust Street View to show your visitors exactly what you want them "
+"to see."
+msgstr ""
+"随着时间的流逝，我们意识到Google街景视图并不总是提供位置的确切视图。同样，可能存在要显示的“视图”在商店内部的情况（360度虚拟漫游）。这就是为什么无论是仅使用Google"
+" Street View，还是使用Google Maps和Google Street "
+"View，现在都可以调整视图，缩放甚至显示的精确位置并保存这些参数。因此，在创建“地图”时，请务必调整街景视图，以向访问者确切显示您希望他们看到的内容。"
+
+#. Author of the plugin
+msgid "Pagup"
+msgstr "帕古普"
+
+#: admin/cpt.php:10
+msgid "Parent Item:"
+msgstr "父项："
+
+#: includes/shortcode.php:94
+msgid "Please add correct post id for WP Google Street View"
+msgstr "请为WP Google Street View添加正确的帖子ID"
+
+#: includes/shortcode.php:29
+msgid "Please add post ID to see WP Google Street View"
+msgstr "请添加帖子ID以查看WP Google街景视图"
+
+#: admin/inc/settings_form.php:12
+#, php-format
+msgid ""
+"Please check <a href=\"%s\">HERE</a> to learn how to create a Google Maps "
+"API, it takes 2 min. MAX"
+msgstr "请在<a href=\"%s\">这里</a>检查以了解如何创建Google Maps API，这需要2分钟。最大限度"
+
+#: admin/inc/tabs/marker.php:89
+msgid ""
+"Please upload a marker to media library and paste a direct link here. "
+"Recommended Size: 72x72 pixels "
+msgstr "请将标记上传到媒体库，并在此处粘贴直接链接。建议尺寸：72x72像素"
+
+#: admin/cpt.php:6
+msgctxt "Post Type General Name"
+msgid "WP Google Street View"
+msgstr "WP Google街景"
+
+#: admin/cpt.php:7
+msgctxt "Post Type Singular Name"
+msgid "WP Google Street View"
+msgstr "WP Google街景"
+
+#: admin/inc/settings_seo.php:305
+msgid "Postal Code"
+msgstr "邮政编码"
+
+#: admin/inc/settings_seo.php:150
+msgid "Price Range"
+msgstr "价格范围"
+
+#: admin/inc/settings_seo.php:251
+msgid "Refer to map setting page to identify your latitude / longitude"
+msgstr "请参阅地图设置页面以识别您的纬度/经度"
+
+#: admin/inc/settings_seo.php:290
+msgid "Region"
+msgstr "地区"
+
+#: admin/cpt.php:21
+msgid "Remove featured image"
+msgstr "删除特色图片"
+
+#: admin/inc/settings_form.php:24 admin/inc/settings_form_bkup.php:103 
+#: admin/inc/settings_seo.php:353
+msgid "Remove Settings"
+msgstr "移除设定"
+
+#: admin/inc/settings_form.php:30 admin/inc/settings_form_bkup.php:109 
+#: admin/inc/settings_seo.php:362 admin/inc/settings_seo.php:366
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: admin/inc/settings_seo.php:7
+msgid ""
+"Schema is a foundation for markup data that allows search engines to better "
+"understand location-based structured information like addresses, dates of "
+"events, phone numbers, and other information."
+msgstr "架构是标记数据的基础，它使搜索引擎可以更好地理解基于位置的结构化信息，例如地址，事件日期，电话号码和其他信息。"
+
+#: includes/shortcode_button.php:14
+msgid "Select Google Street View / Map"
+msgstr "选择Google街景视图/地图"
+
+#: admin/inc/metabox_side.php:2
+msgid ""
+"Select the type of MAP you want to create (Google Street View OR Google "
+"Street view + Google Map OR Google Maps)"
+msgstr "选择您要创建的MAP的类型（Google街景视图或Google街景视图+ Google Map或Google Maps）"
+
+#: admin/cpt.php:20
+msgid "Set featured image"
+msgstr "设置特色图片"
+
+#: admin/inc/tabs/infobox.php:40
+msgid "Set Max Width for Info Box?"
+msgstr "设置信息框的最大宽度？"
+
+#: admin/settings.php:31
+msgid "Settings"
+msgstr "设定值"
+
+#: admin/inc/settings_form_bkup.php:77 admin/inc/tabs/marker.php:22
+msgid "Show Info Box"
+msgstr "显示信息框"
+
+#: admin/inc/settings_form_bkup.php:68 admin/inc/tabs/marker.php:13
+msgid "Show Marker"
+msgstr "显示标记"
+
+#: admin/inc/settings_seo.php:118
+msgid "Site Image"
+msgstr "网站图片"
+
+#: admin/inc/settings_seo.php:290
+msgid "State (i.e. CA)"
+msgstr "州（即CA）"
+
+#: admin/inc/metabox_side.php:2 admin/inc/metabox_side.php:4 
+#: admin/inc/metabox_side.php:7 admin/inc/metabox_side.php:9 
+#: admin/inc/metabox_side.php:11
+msgid "Step"
+msgstr "步"
+
+#: admin/inc/settings_seo.php:25
+msgid "Step 1: Add Schema Data on:"
+msgstr "步骤1：在以下位置添加架构数据："
+
+#: admin/inc/settings_seo.php:73
+msgid "Step 2: Fill Out The Form"
+msgstr "步骤2：填写表格"
+
+#: admin/inc/settings_seo.php:320
+msgid "Street Address"
+msgstr "街道地址"
+
+#: admin/inc/metabox_form.php:71 admin/inc/tabs/styles.php:5
+msgid "Styles"
+msgstr "款式"
+
+#: admin/inc/settings_seo.php:165
+msgid "Telephone"
+msgstr "电话"
+
+#: admin/inc/settings_faq.php:33
+msgid ""
+"The easiest part! Once your map is created and optimized (with markers, "
+"styles, ...), Wp Google Street View will generate a shortcode (on top of the "
+"page) to copy-paste where ever needed. These maps will adjust automatically "
+"according to your layout and settings (grid, full width, ...)"
+msgstr ""
+"最简单的部分！一旦创建并优化了地图（使用标记，样式等），Wp "
+"Google街景视图就会生成一个简码（在页面顶部），以便在需要的地方进行复制粘贴。这些地图将根据您的布局和设置（网格，全宽，...）自动调整"
+
+#: admin/inc/settings_faq.php:13
+msgid ""
+"The main reason why its recommended to apply restrictions is to help prevent "
+"unauthorised use of your quota ! We recommend to restrict your API key to "
+"specific websites (HTTP referrers). For example, if you want to limit this "
+"API key to all pages of your website (mysite.com), then select \"HTTP "
+"referrers\" (Key restrictions), then enter your website, with a * : mysite."
+"com/* (* for all pages on mysite.com). If you want to limit the use of "
+"specific APIs on this website, then, in API restrictions, select \"Restrict "
+"Key\" & identify these APIs (4 with Wp Google Street View)."
+msgstr ""
+"建议应用限制的主要原因是为了防止未经授权使用您的配额！我们建议将您的API密钥限制为特定网站（HTTP引荐来源网址）。例如，如果您想将此API密钥限制为网站（mysite"
+".com）的所有页面，则选择“ HTTP Referrers”（密钥限制），然后输入带有*的网站：mysite.com/*（*适用于mysite."
+"com上的所有页面）。如果要限制在此网站上使用特定的API，请在API限制中选择“限制密钥”并标识这些API（Wp Google Street "
+"View中为4）。"
+
+#: admin/inc/settings_seo.php:150
+msgid "The price range of the business, for example $$$"
+msgstr "商家的价格范围，例如$$$"
+
+#. Description of the plugin
+msgid ""
+"The WP Google Street View allows you to embed Google street View (with "
+"virtual tour) & Google Maps maps with high quality markers."
+msgstr "WP Google街景视图可让您嵌入带有高质量标记的Google街景视图（带有虚拟游览）和Google Maps地图。"
+
+#: admin/inc/settings_form.php:46
+msgid ""
+"Then, you have to enable 4 APIs : \"Places API, Maps Javascript API, "
+"Geocoding API and Directions API\"."
+msgstr ""
+"然后，您必须启用4个API：“ Places API，Maps Javascript API，Geocoding API和Directions API”。"
+
+#: admin/inc/settings_faq.php:5
+msgid ""
+"This message could mean 2 things: either you did not enable all required "
+"APIs (you need 4 APIs to make plugin work properly), or you are limited by "
+"key restrictions/API restrictions. Please go to your account, https:"
+"//console.developers.google.com/, click on \"Credentials\" (left sade bar) > "
+"API Key (your project), then check your Key restrictions (None, Http "
+"referrers, Ip adresses, ...) or your API restrictions. You may need to copy-"
+"paste, once again, your API KEY on WpGoogle Street View setting page, then "
+"Save to make plugin work properly. Please wait a few minutes before you try "
+"again."
+msgstr ""
+"此消息可能意味着两件事：您未启用所有必需的API（您需要4个API才能使插件正常工作），或者受到密钥限制/ API限制的限制。请转到您的帐户https:"
+"//console.developers.google.com/，单击“凭据”（左侧的sade栏）> "
+"API密钥（您的项目），然后检查您的密钥限制（无，Http引用者，IP地址） ，..."
+"）或您的API限制。您可能需要再次在WpGoogle街景视图设置页面上复制粘贴您的API KEY，然后单击保存以使插件正常工作。请等待几分钟，然后重试。"
+
+#: admin/cpt.php:16
+msgid "Update Item"
+msgstr "更新项目"
+
+#: admin/inc/settings_seo.php:136 admin/inc/settings_seo.php:140
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: admin/inc/tabs/marker.php:107 admin/inc/tabs/marker.php:111
+msgid "Upload Marker"
+msgstr "上载标记"
+
+#: admin/cpt.php:24
+msgid "Uploaded to this item"
+msgstr "上载到这个项目"
+
+#: admin/cpt.php:22
+msgid "Use as featured image"
+msgstr "用作特色图片"
+
+#: admin/inc/settings_faq.php:49
+msgid ""
+"We have integrated, in the \"Address (Coordinates)\" section of settings "
+"page, a tool allowing you to geolocalize you via Google Maps (and Google "
+"Autocomplete). Once your location is found, Wp Google Street View will "
+"automatically deploys the corresponding address as well as longitude and "
+"latitude."
+msgstr ""
+"我们在设置页面的“地址（坐标）”部分集成了一个工具，可让您通过Google Maps（和Google "
+"Autocomplete）对您进行地理位置定位。找到您的位置后，Wp Google街景视图将自动部署相应的地址以及经度和纬度。"
+
+#: admin/inc/settings_seo.php:77
+msgid "Website Url"
+msgstr "网址"
+
+#: admin/inc/settings_faq.php:3
+msgid ""
+"What does it mean: \"This API projects is not authorized to use with this "
+"API\"?"
+msgstr "这是什么意思：“未授权该API项目与此API一起使用”？"
+
+#: admin/inc/settings_faq.php:11
+msgid "Why do I have to apply restrictions with my API KEY?"
+msgstr "为什么我必须对API KEY进行限制？"
+
+#: admin/inc/tabs/general-settings.php:54
+msgid ""
+"Width and Height preview is not available. You will see it working on front-"
+"end. Don't add \"px\" or \"%\" for <strong>height</strong>. Map will not "
+"work."
+msgstr "宽度和高度预览不可用。您将看到它在前端运行。不要为<strong>高度</ strong>添加“ px”或“％”。地图将无法正常工作。"
+
+#: admin/inc/metabox_form.php:62
+msgid ""
+"With Street View, make sure to \"correct\" or \"adjust\" the view displayed "
+"with preview tool (Zoom in/out + Point of View), then SAVE."
+msgstr "使用街景视图时，请确保先“校正”或“调整”预览工具显示的视图（放大/缩小+视点），然后进行“保存”。"
+
+#. id, used as the html id att
+#: admin/metabox.php:22 admin/cpt.php:8 admin/cpt.php:9 admin/cpt.php:30
+msgid "WP Google Street View"
+msgstr "WP Google街景"
+
+#: admin/inc/settings_faq.php:80
+msgid "Wp Google Street View is 100% responsive and Mobile-Friendly."
+msgstr "Wp Google街景服务具有100％的响应速度并且适合移动设备。"
+
+#: admin/cpt.php:31
+msgid "WP Google Street View Post Type"
+msgstr "WP Google Street View帖子类型"
+
+#. Name of the plugin
+msgid "WP Google Street View Pro"
+msgstr "WP Google Street View Pro"
+
+#: admin/settings.php:30
+msgid "WP Google Street View Settings"
+msgstr "WP Google街景设置"
+
+#. id, used as the html id att
+#: admin/metabox.php:110
+msgid "WP Google Street View, How to ...?"
+msgstr "WP Google街景，如何...？"
+
+#: admin/inc/settings_form.php:45
+msgid "You need a Google Account (Gsuite, Gmail, ...)"
+msgstr "您需要一个Google帐户（Gsuite，Gmail等）"
+
+#: admin/inc/settings_seo.php:165
+msgid "Your business telephone number"
+msgstr "您的公司电话号码"
+
+#: admin/inc/settings_form_bkup.php:43 admin/inc/tabs/general-settings.php:33
+msgid "Zoom"
+msgstr "飞涨"

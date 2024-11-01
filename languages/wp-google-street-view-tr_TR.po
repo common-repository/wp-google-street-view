@@ -1,0 +1,894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Google Street View Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-25 22:01+0000\n"
+"PO-Revision-Date: 2021-05-25 22:40+0000\n"
+"Last-Translator: Gautier Dorval\n"
+"Language-Team: Turkish\n"
+"Language: tr-TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wp-google-street-view"
+
+#: admin/inc/metabox_form.php:4
+msgid ""
+"(Google Street View, Google Maps or Synchronized Street view + Maps) Check "
+"our DEMO"
+msgstr ""
+"(Google Sokak Görünümü, Google Haritalar veya Senkronize Sokak Görünümü + "
+"Haritalar) DEMO'muza bakın"
+
+#: admin/inc/settings_seo.php:200
+msgid "- Add Opening Hours by separate line"
+msgstr "- Açılış Saatlerini ayrı bir satıra ekleyin"
+
+#: admin/inc/settings_seo.php:198
+msgid ""
+"- Days are specified using the following two-letter combinations: Mo, Tu, We,"
+" Th, Fr, Sa, Su."
+msgstr ""
+"- Günler şu iki harfli kombinasyonlar kullanılarak belirtilir: Mo, Tu, We, "
+"Th, Fr, Sa, Su."
+
+#: admin/inc/settings_seo.php:199
+msgid ""
+"- Times are specified using 24:00 time. For example, 3pm is specified as 15:"
+"00."
+msgstr ""
+"- Saatler, 24:00 saati kullanılarak belirlenir. Örneğin, 15:00, 15:00 olarak "
+"belirtilir."
+
+#: admin/inc/settings_seo.php:385
+msgid "About Schema Markup"
+msgstr "Şema İşaretleme Hakkında"
+
+#: admin/cpt.php:13
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: admin/cpt.php:12
+msgid "Add New Map"
+msgstr "Yeni Harita Ekle"
+
+#: admin/inc/settings_seo.php:11
+msgid ""
+"Adding Local Business markup to your website translates your human-readable "
+"content into the machine-readable language of JSON-LD. This is a helpful way "
+"to help optimize <strong>your website for local SEO, as it's a major ranking "
+"factor.</strong>"
+msgstr ""
+"Web sitenize Yerel İşletme işaretlemesi eklemek, insan tarafından okunabilir "
+"içeriğinizi makine tarafından okunabilir JSON-LD diline çevirir. Bu, <strong>"
+" web sitenizi yerel SEO için optimize etmenin yararlı bir yoludur, çünkü "
+"önemli bir sıralama faktörüdür. </strong>"
+
+#: admin/inc/settings_form_bkup.php:21 admin/inc/settings_seo.php:257
+msgid "Address"
+msgstr "Adres"
+
+#: admin/inc/tabs/general-settings.php:7
+msgid "Address (Coordinates)"
+msgstr "Adres (Koordinatlar)"
+
+#: admin/cpt.php:11
+msgid "All Items"
+msgstr "Tüm eşyalar"
+
+#: admin/inc/settings_seo.php:118
+msgid "at least 160x90 pixels and at most 1920x1080 pixels"
+msgstr "en az 160x90 piksel ve en fazla 1920x1080 piksel"
+
+#: admin/inc/settings_side.php:15
+msgid ""
+"Auto optimize all image alt texts (including Woocommerce online store), of "
+"your pages, posts & products, from Yoast SEO optimization settings (keywords)"
+" and/or Post title."
+msgstr ""
+"Yoast SEO optimizasyon ayarlarından (anahtar kelimeler) ve / veya Yazı "
+"başlığından sayfalarınızın, gönderilerinizin ve ürünlerinizin tüm alt "
+"metinlerini (Woocommerce çevrimiçi mağazası dahil) otomatik olarak optimize "
+"edin."
+
+#: admin/inc/settings_side.php:25
+msgid ""
+"Auto optimize all image title texts (including Woocommerce online store), of "
+"your pages, posts & products, with Post title, Image name, website title etc."
+msgstr ""
+"Sayfalarınızın, gönderilerinizin ve ürünlerinizin tüm görsel başlık "
+"metinlerini (Woocommerce çevrimiçi mağazası dahil), Yazı başlığı, Görüntü "
+"adı, web sitesi başlığı vb. İle otomatik olarak optimize edin."
+
+#: admin/inc/settings_seo.php:5
+msgid "Boost your local ranking with a \"Local Business Schema\""
+msgstr "Yerel sıralamanızı bir \"Yerel İşletme Şeması\" ile yükseltin"
+
+#: admin/inc/settings_side.php:3
+msgid "Boost your website ranking"
+msgstr "Web sitenizin sıralamasını yükseltin"
+
+#: admin/inc/settings_faq.php:63
+msgid "Can I customize Marker Icon ?"
+msgstr "İşaretçi Simgesini özelleştirebilir miyim?"
+
+#: admin/inc/metabox_form.php:4
+msgid "Choose Map Type:"
+msgstr "Harita Türünü Seçin:"
+
+#: includes/shortcode.php:85
+msgid ""
+"Choose Street View or Basic Map Type. Street View + Map Works in WP Google "
+"Street View Pro Version"
+msgstr ""
+"Sokak Görünümü veya Temel Harita Türü'nü seçin. WP Google Street View Pro "
+"Sürümünde Street View + Harita Çalışmaları"
+
+#: admin/inc/settings_seo.php:275
+msgid "City"
+msgstr "Kent"
+
+#: admin/inc/metabox_form.php:115
+msgid "Click to Preview Your Map"
+msgstr "Haritanızı Önizlemek İçin Tıklayın"
+
+#: admin/inc/metabox_side.php:11
+msgid ""
+"Copy / paste the generated \"shortcode\" to the desired location on your "
+"website. You can adjust the personalization parameters later, simply by "
+"editing the MAP."
+msgstr ""
+"Oluşturulan \"kısa kodu\" web sitenizde istediğiniz yere kopyalayın / "
+"yapıştırın. Kişiselleştirme parametrelerini daha sonra sadece MAP'yi "
+"düzenleyerek ayarlayabilirsiniz."
+
+#: admin/inc/settings_seo.php:260
+msgid "Country "
+msgstr "Ülke"
+
+#: admin/inc/tabs/infobox.php:77 admin/inc/tabs/infobox.php:94
+msgid "Custom Content for Infobox (you can use html)"
+msgstr "Bilgi Kutusu için Özel İçerik (html kullanabilirsiniz)"
+
+#: admin/inc/tabs/infobox.php:22
+msgid "Custom Content Inside Info Box?"
+msgstr "Bilgi Kutusu İçinde Özel İçerik?"
+
+#: admin/inc/tabs/marker.php:86
+msgid "Custom Marker Icon URL"
+msgstr "Özel İşaretçi Simgesi URL'si"
+
+#: admin/inc/tabs/styles.php:34
+msgid "Custom Style"
+msgstr "Özel Stil"
+
+#: admin/inc/metabox_form.php:70 admin/inc/tabs/infobox.php:5
+msgid "Customize Info Box on Marker"
+msgstr "İşaretleyicideki Bilgi Kutusunu Özelleştir"
+
+#: admin/inc/metabox_side.php:9
+msgid "Customize the maps (Marker, Layers, Styles, ...)"
+msgstr "Haritaları özelleştirin (İşaretçi, Katmanlar, Stiller, ...)"
+
+#: admin/inc/tabs/infobox.php:52 admin/inc/tabs/infobox.php:62
+msgid "Define Max Width (numbers only):"
+msgstr "Maksimum Genişliği Tanımlayın (yalnızca sayılar):"
+
+#: admin/inc/metabox_side.php:7
+msgid ""
+"Define the size of the Map (note that a size of 100% means that the map will "
+"adapt to the space available depending on whether you are using \"grid\" or "
+"\"full width\")."
+msgstr ""
+"Haritanın boyutunu tanımlayın (% 100 boyutunun, haritanın \"ızgara\" veya "
+"\"tam genişlik\" kullanmanıza bağlı olarak mevcut alana uyarlanacağı "
+"anlamına geldiğini unutmayın)."
+
+#: admin/inc/settings_seo.php:180
+msgid "Description"
+msgstr "Açıklama"
+
+#: admin/inc/tabs/marker.php:35
+msgid ""
+"Disable it if you only want to show marker but when user click or mouse over "
+"on it then display the infobox. You can choose Open Method below"
+msgstr ""
+"Yalnızca işaretçiyi göstermek istiyorsanız, ancak kullanıcı tıkladığında "
+"veya fareyle üzerine geldiğinde bilgi kutusunu görüntülemek istiyorsanız "
+"devre dışı bırakın. Aşağıdaki Açık Yöntemi seçebilirsiniz"
+
+#: admin/cpt.php:15
+msgid "Edit Item"
+msgstr "Ögeyi düzenle"
+
+#: admin/inc/tabs/layers.php:19
+msgid "Enable Bicycle Layer?"
+msgstr "Bisiklet Katmanı etkinleştirilsin mi?"
+
+#: admin/inc/tabs/layers.php:37
+msgid "Enable Traffic Layer?"
+msgstr "Trafik Katmanı etkinleştirilsin mi?"
+
+#: admin/inc/tabs/layers.php:55
+msgid "Enable Transport Layer?"
+msgstr "Taşıma Katmanı etkinleştirilsin mi?"
+
+#: admin/inc/metabox_side.php:4
+msgid ""
+"Enter the target address OR use our geolocation tool (Google Autocomplete "
+"will help you complete your address and will automatically acquire the "
+"longitude and latitude of the target location)."
+msgstr ""
+"Hedef adresi girin VEYA coğrafi konum aracımızı kullanın (Google Otomatik "
+"Tamamlama, adresinizi tamamlamanıza yardımcı olacak ve hedef konumun enlem "
+"ve boylamını otomatik olarak alacaktır)."
+
+#: admin/cpt.php:19
+msgid "Featured Image"
+msgstr "Özellikli resim"
+
+#: admin/cpt.php:27
+msgid "Filter items list"
+msgstr "Öğe listesini filtrele"
+
+#: admin/inc/tabs/general-settings.php:12
+msgid "Find my current location"
+msgstr "Mevcut konumumu bul"
+
+#: admin/inc/settings_faq.php:25
+#, php-format
+msgid ""
+"Free version allows you to use either Google Street View or Google Maps. If "
+"you want to have both features available on a single map so  synchronized "
+"Street View and Maps, then you need to upgrade to <a href=\"%s\">PRO</a>. "
+"Please note that Google maps options (markers, styles, etc.) do not work "
+"with Google Street View."
+msgstr ""
+"Ücretsiz sürüm, Google Street View veya Google Maps kullanmanıza izin verir. "
+"Her iki özelliğin de tek bir haritada mevcut olmasını istiyorsanız, Sokak "
+"Görünümü ve Haritalar ile senkronize edilmişse, <a href=\"%s\">PRO "
+"sürümüne</a> geçmeniz gerekir. Lütfen Google harita seçeneklerinin "
+"(işaretçiler, stiller vb.) Google Street View ile çalışmadığını unutmayın."
+
+#: admin/inc/metabox_form.php:68
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: admin/inc/settings_seo.php:219
+msgid "GeoCoordinates"
+msgstr "GeoCoordinates"
+
+#: admin/inc/settings_side.php:7
+msgid "Get Better Robots.txt &raquo;"
+msgstr "Daha İyi Robots.txt Edinin »"
+
+#: admin/inc/settings_side.php:17
+msgid "Get BIALTY by Pagup &raquo;"
+msgstr "Sayfaya Göre BIALTY Al »"
+
+#: admin/inc/settings_side.php:27
+msgid "Get BIGTA by Pagup &raquo;"
+msgstr "Sayfaya Göre BIGTA Alın »"
+
+#: admin/inc/settings_side.php:37
+msgid "Get Mobilook by Pagup &raquo;"
+msgstr "Sayfaya Göre Mobilook&#39;u Edinin »"
+
+#: admin/inc/settings_form.php:43
+msgid "Get Your Google MAPS API in 3 Steps"
+msgstr "Google MAPS API'nizi 3 Adımda Edinin"
+
+#: admin/inc/settings_form.php:8 admin/inc/settings_form_bkup.php:8
+msgid "Google Maps Api Key"
+msgstr "Google Haritalar Api Anahtarı"
+
+#: wp-google-street-view.php:89
+#, php-format
+msgid ""
+"Hey %1$s, %2$s Click on Allow & Continue to create highly attractive maps "
+"with Wp Google Street View plugin.  %2$s Never miss an important update -- "
+"opt-in to our security and feature updates notifications. %2$s See you on "
+"the other side."
+msgstr ""
+"Merhaba% 1 $ s,% 2 $ s Wp Google Street View eklentisi ile oldukça çekici "
+"haritalar oluşturmak için İzin Ver ve Devam Et'e tıklayın. % 2 $ s Önemli "
+"bir güncellemeyi asla kaçırmayın - güvenlik ve özellik güncellemeleri "
+"bildirimlerimize kaydolun. % 2 $ s Diğer tarafta görüşürüz."
+
+#: admin/inc/settings_seo.php:42
+msgid "Homepage OR Select a page >"
+msgstr "Ana Sayfa VEYA Bir sayfa seçin>"
+
+#: admin/inc/settings_faq.php:71
+msgid "How can I style the maps?"
+msgstr "Haritaları nasıl biçimlendirebilirim?"
+
+#: admin/inc/settings_faq.php:39
+msgid ""
+"How to adjust or modifiy a map (height, width, marker, infobox, ...) once "
+"created ?"
+msgstr ""
+"Bir harita oluşturulduktan sonra (yükseklik, genişlik, işaretçi, bilgi "
+"kutusu, ...) nasıl ayarlanır veya değiştirilir?"
+
+#: admin/inc/settings_faq.php:55
+msgid "How to correct or adjust the view on Google Street View ?"
+msgstr "Google Street View'da görünüm nasıl düzeltilir veya ayarlanır?"
+
+#: admin/inc/settings_faq.php:47
+msgid "How to locate my current position ?"
+msgstr "Mevcut konumumu nasıl bulabilirim?"
+
+#: admin/inc/settings_faq.php:23
+msgid "How to use Google Street View with Google Maps ?"
+msgstr "Google Sokak Görünümü Google Haritalar ile nasıl kullanılır?"
+
+#. Author URI of the plugin
+msgid "https://pagup.com/"
+msgstr "https://pagup.com/"
+
+#: admin/inc/settings_faq.php:15
+msgid ""
+"I have this message: \"You must enable Billing on the Google Cloud Project "
+"at https://console.cloud.google.com/project/_/billing/enable ... \""
+msgstr ""
+"Şu mesajı alıyorum: \"https://console.cloud.google."
+"com/project/_/billing/enable adresinden Google Cloud Projesinde "
+"Faturalandırmayı etkinleştirmelisiniz ...\""
+
+#: admin/inc/settings_seo.php:275
+msgid "i.e New York City"
+msgstr "yani New York Şehri"
+
+#: admin/inc/metabox_side.php:5
+msgid ""
+"If using Google Street View only, make to to correct or adjust the view "
+"displayed (Zoom in/out, Point of View), then SAVE."
+msgstr ""
+"Yalnızca Google Street View kullanılıyorsa, görüntülenen görünümü düzeltin "
+"veya ayarlayın (Yakınlaştır / Uzaklaştır, Bakış Açısı), ardından KAYDET."
+
+#: admin/inc/settings_seo.php:77
+msgid "include http:// or https://"
+msgstr "http: // veya https: // ekleyin"
+
+#: admin/inc/settings_form_bkup.php:86 admin/inc/tabs/marker.php:31
+msgid "Info Box Open by Default"
+msgstr "Varsayılan Olarak Açık Bilgi Kutusu"
+
+#: admin/inc/tabs/marker.php:63
+msgid "Info Box Open Method?"
+msgstr "Bilgi Kutusu Açma Yöntemi?"
+
+#: admin/cpt.php:23
+msgid "Insert into item"
+msgstr "Öğeye ekle"
+
+#: admin/inc/settings_side.php:35
+msgid ""
+"Instant mobile view of website (pages, posts, products) for responsive web "
+"design on phone (+ dualscreen). This plugin also offers helpful tools on "
+"each page, such as Facebook Debugger, LinkedIn Post Inspector, and Google "
+"Mobile-Friendly Test Tool."
+msgstr ""
+"Telefonda (+ çift ekran) duyarlı web tasarımı için web sitesinin (sayfalar, "
+"gönderiler, ürünler) anında mobil görünümü. Bu eklenti ayrıca her sayfada "
+"Facebook Debugger, LinkedIn Post Inspector ve Google Mobil Dostu Test Aracı "
+"gibi yararlı araçlar sunar."
+
+#: admin/inc/settings_side.php:33
+msgid "Instant Mobile Viewer"
+msgstr "Anında Mobil Görüntüleyici"
+
+#: admin/inc/settings_faq.php:79
+msgid "Is WP Google Street View responsive?"
+msgstr "WP Google Street View duyarlı mı?"
+
+#: admin/inc/settings_faq.php:17
+msgid ""
+"It means that you did not enable \"Billing\" (https://www.youtube.com/watch?"
+"v=uINleRduCWM) on Google Cloud Platform. Since July 16, 2018, Google has "
+"changed its policy. You need to add billing information to use Google Maps "
+"API. Once your API KEY is created, make sure to enable \"Billing\" (https:"
+"//console.cloud.google.com/project/_/billing/enable). Google will activate a "
+"Free TRIAL credit of 300$ (no need to pay anything). If ever you see a "
+"warning message on Map like “This page can’t load Google Maps correctly“, "
+"please have a look on google developers documentation.  Please wait a few "
+"minutes before you try again."
+msgstr ""
+"Bu, Google Cloud Platform'da \"Faturalandırmayı\" (https://www.youtube."
+"com/watch?v=uINleRduCWM) etkinleştirmediğiniz anlamına gelir. Google, 16 "
+"Temmuz 2018'den beri politikasını değiştirdi. Google Maps API'yı kullanmak "
+"için fatura bilgisi eklemeniz gerekiyor. API ANAHTARınız oluşturulduktan "
+"sonra, \"Faturalandırma\" yı (https://console.cloud.google."
+"com/project/_/billing/enable) etkinleştirdiğinizden emin olun. Google, 300 $ "
+"'lık Ücretsiz DENEME kredisini etkinleştirecektir (hiçbir şey ödemeye gerek "
+"yoktur). Haritada \"Bu sayfa Google Haritalar'ı doğru bir şekilde "
+"yükleyemiyor\" gibi bir uyarı mesajı görürseniz, lütfen Google geliştirici "
+"belgelerine bir göz atın. Tekrar denemeden önce lütfen birkaç dakika "
+"bekleyin."
+
+#: admin/cpt.php:25
+msgid "Items list"
+msgstr "Ürün listesi"
+
+#: admin/cpt.php:26
+msgid "Items list navigation"
+msgstr "Öğeler listesinde gezinme"
+
+#: admin/inc/settings_faq.php:73
+msgid ""
+"Just go to the \"Styles\" section of your map and select from the existing "
+"ones. If you don not find the one you need, you can code it yourself in "
+"\"Custom map style\"."
+msgstr ""
+"Haritanızın \"Stiller\" bölümüne gidin ve mevcut olanlardan birini seçin. "
+"İhtiyacınız olanı bulamazsanız, \"Özel harita stilinde\" kendiniz "
+"kodlayabilirsiniz."
+
+#: admin/inc/settings_form_bkup.php:28 admin/inc/settings_seo.php:222 
+#: admin/inc/tabs/general-settings.php:19
+msgid "Latitude"
+msgstr "Enlem"
+
+#: admin/inc/metabox_form.php:72 admin/inc/tabs/layers.php:3
+msgid "Layers"
+msgstr "Katmanlar"
+
+#: admin/inc/settings_seo.php:9
+msgid ""
+"Local business schema is a type of structured data markup code you can add "
+"to your business's website to make it easier for search engines to identify "
+"what type of organization you are and what you do."
+msgstr ""
+"Yerel işletme şeması, arama motorlarının ne tür bir kuruluş olduğunuzu ve ne "
+"yaptığınızı belirlemesini kolaylaştırmak için işletmenizin web sitesine "
+"ekleyebileceğiniz bir tür yapılandırılmış veri biçimlendirme kodu türüdür."
+
+#: admin/inc/settings_form_bkup.php:33 admin/inc/settings_seo.php:237 
+#: admin/inc/tabs/general-settings.php:24
+msgid "Longitude"
+msgstr "Boylam"
+
+#: admin/inc/tabs/general-settings.php:48
+msgid "Map Height <i>(in numbers only. e.g: 450)</i>"
+msgstr "Harita Yüksekliği <i> (yalnızca rakamlarla. Ör. 450) </i>"
+
+#: admin/inc/tabs/general-settings.php:43
+msgid "Map Width <i>(include % or px. e.g: 100%)</i>"
+msgstr "Harita Genişliği <i> (% veya piksel dahil. Ör.% 100) </i>"
+
+#: admin/inc/metabox_form.php:69 admin/inc/tabs/marker.php:5
+msgid "Marker"
+msgstr "İşaretleyici"
+
+#: admin/inc/settings_form_bkup.php:49 admin/inc/tabs/marker.php:45
+msgid "Marker Animation"
+msgstr "Marker Animasyonu"
+
+#: admin/inc/metabox_form.php:64
+msgid "Marker, Info Box, Styles and Layers will not work in Street view only."
+msgstr ""
+"İşaretçi, Bilgi Kutusu, Stiller ve Katmanlar yalnızca Sokak görünümünde "
+"çalışmayacaktır."
+
+#: admin/cpt.php:14
+msgid "New Item"
+msgstr "Yeni öğe"
+
+#: admin/cpt.php:17
+msgid "Not found"
+msgstr "Bulunamadı"
+
+#: admin/cpt.php:18
+msgid "Not found in Trash"
+msgstr "Çöp kutusunda bulunamadı"
+
+#: admin/inc/settings_faq.php:65
+msgid ""
+"Of course. By default, we provide the standard Google Map marker. However, "
+"if you want to customize it, you just need to upload it to your site (Media "
+"Library), identify its URL and paste it into the \"Marker\" section of your "
+"map."
+msgstr ""
+"Elbette. Varsayılan olarak, standart Google Harita işaretleyicisini "
+"sağlıyoruz. Ancak, özelleştirmek istiyorsanız, sitenize (Ortam Kitaplığı) "
+"yüklemeniz, URL'sini belirlemeniz ve haritanızın \"İşaretçi\" bölümüne "
+"yapıştırmanız yeterlidir."
+
+#: admin/inc/settings_faq.php:31
+msgid "Once created, how do I use this shortcode ?"
+msgstr "Oluşturulduktan sonra bu kısa kodu nasıl kullanırım?"
+
+#: admin/inc/settings_faq.php:41
+msgid ""
+"Once your map is created and your shortsoce added to your website, you can "
+"always modify all details (style, address, etc.) by editing this shortcode "
+"on Wp Google Street View / All items. They will apply automatically on your "
+"page/post. If not, clear your cache."
+msgstr ""
+"Haritanız oluşturulduktan ve kısa noktanız web sitenize eklendiğinde, bu "
+"kısa kodu Wp Google Street View / Tüm öğeler üzerinde düzenleyerek her zaman "
+"tüm ayrıntıları (stil, adres vb.) Değiştirebilirsiniz. Sayfanıza / "
+"gönderinize otomatik olarak uygulanacaklar. Değilse, önbelleğinizi "
+"temizleyin."
+
+#: admin/inc/settings_seo.php:194
+msgid "Operation Hours"
+msgstr "Operasyon saatleri"
+
+#: admin/inc/settings_side.php:13
+msgid "Optimize your ALT TEXT"
+msgstr "ALT TEXT'inizi optimize edin"
+
+#: admin/inc/settings_side.php:5
+msgid ""
+"Optimize your Robots.txt with Better Robots.txt (made by PAGUP) & Boost your "
+"ranking on search engines."
+msgstr ""
+"Robots.txt dosyanızı Better Robots.txt (PAGUP tarafından yapılmıştır) ile "
+"optimize edin ve arama motorlarında sıralamanızı yükseltin."
+
+#: admin/inc/settings_side.php:23
+msgid "Optimize your Title TEXT"
+msgstr "Başlık TEXT'inizi optimize edin"
+
+#: admin/inc/settings_seo.php:92
+msgid "Organization or Business name *"
+msgstr "Kuruluş veya İşletme adı *"
+
+#: admin/inc/settings_faq.php:57
+msgid ""
+"Over time, we realized that Google Street View did not always provide the "
+"exact view for a location. Also, there can be a situation where the \"view\" "
+"to be shown is inside a store (360 ° virtual tour). This is why, whether "
+"with Google Street View only, or Google Maps and Google Street View, it is "
+"now possible to adjust the view, the zoom and even the precise location to "
+"be displayed and save these parameters. So when creating your \"maps\", be "
+"sure to adjust Street View to show your visitors exactly what you want them "
+"to see."
+msgstr ""
+"Zamanla, Google Sokak Görünümü’nün bir konum için her zaman tam görünümü "
+"sağlamadığını fark ettik. Ayrıca, gösterilecek \"görünümün\" bir mağaza "
+"içinde olduğu bir durum olabilir (360 ° sanal tur). Bu nedenle, ister "
+"yalnızca Google Street View ile ister Google Haritalar ve Google Street View "
+"ile görüntülenecek görünümü, yakınlaştırmayı ve hatta tam konumu ayarlamak "
+"ve bu parametreleri kaydetmek artık mümkün. Bu nedenle, \"haritalarınızı\" "
+"oluştururken, Sokak Görünümü'nü ziyaretçilerinize tam olarak görmelerini "
+"istediğiniz şeyi gösterecek şekilde ayarladığınızdan emin olun."
+
+#. Author of the plugin
+msgid "Pagup"
+msgstr "Sayfalandırma"
+
+#: admin/cpt.php:10
+msgid "Parent Item:"
+msgstr "Ana Öğe:"
+
+#: includes/shortcode.php:94
+msgid "Please add correct post id for WP Google Street View"
+msgstr "Lütfen WP Google Street View için doğru gönderi kimliğini ekleyin"
+
+#: includes/shortcode.php:29
+msgid "Please add post ID to see WP Google Street View"
+msgstr "WP Google Sokak Görünümü'nü görmek için lütfen posta kimliği ekleyin"
+
+#: admin/inc/settings_form.php:12
+#, php-format
+msgid ""
+"Please check <a href=\"%s\">HERE</a> to learn how to create a Google Maps "
+"API, it takes 2 min. MAX"
+msgstr ""
+"Google Haritalar API&#39;sinin nasıl oluşturulacağını öğrenmek için lütfen "
+"<a href=\"%s\">BURAYA bakın, 2 dakika sürer.</a> MAX"
+
+#: admin/inc/tabs/marker.php:89
+msgid ""
+"Please upload a marker to media library and paste a direct link here. "
+"Recommended Size: 72x72 pixels "
+msgstr ""
+"Lütfen medya kitaplığına bir işaretçi yükleyin ve buraya doğrudan bir "
+"bağlantı yapıştırın. Önerilen Boyut: 72x72 piksel"
+
+#: admin/cpt.php:6
+msgctxt "Post Type General Name"
+msgid "WP Google Street View"
+msgstr "WP Google Sokak Görünümü"
+
+#: admin/cpt.php:7
+msgctxt "Post Type Singular Name"
+msgid "WP Google Street View"
+msgstr "WP Google Sokak Görünümü"
+
+#: admin/inc/settings_seo.php:305
+msgid "Postal Code"
+msgstr "posta kodu"
+
+#: admin/inc/settings_seo.php:150
+msgid "Price Range"
+msgstr "Fiyat aralığı"
+
+#: admin/inc/settings_seo.php:251
+msgid "Refer to map setting page to identify your latitude / longitude"
+msgstr "Enlem / boylamınızı belirlemek için harita ayarı sayfasına bakın"
+
+#: admin/inc/settings_seo.php:290
+msgid "Region"
+msgstr "Bölge"
+
+#: admin/cpt.php:21
+msgid "Remove featured image"
+msgstr "Öne çıkan görseli kaldır"
+
+#: admin/inc/settings_form.php:24 admin/inc/settings_form_bkup.php:103 
+#: admin/inc/settings_seo.php:353
+msgid "Remove Settings"
+msgstr "Ayarları Kaldır"
+
+#: admin/inc/settings_form.php:30 admin/inc/settings_form_bkup.php:109 
+#: admin/inc/settings_seo.php:362 admin/inc/settings_seo.php:366
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: admin/inc/settings_seo.php:7
+msgid ""
+"Schema is a foundation for markup data that allows search engines to better "
+"understand location-based structured information like addresses, dates of "
+"events, phone numbers, and other information."
+msgstr ""
+"Şema, arama motorlarının adresler, etkinlik tarihleri, telefon numaraları ve "
+"diğer bilgiler gibi konuma dayalı yapılandırılmış bilgileri daha iyi "
+"anlamasına olanak tanıyan işaretleme verilerinin temelidir."
+
+#: includes/shortcode_button.php:14
+msgid "Select Google Street View / Map"
+msgstr "Google Street View / Map seçin"
+
+#: admin/inc/metabox_side.php:2
+msgid ""
+"Select the type of MAP you want to create (Google Street View OR Google "
+"Street view + Google Map OR Google Maps)"
+msgstr ""
+"Oluşturmak istediğiniz HARİTA türünü seçin (Google Sokak Görünümü VEYA "
+"Google Sokak görünümü + Google Haritası VEYA Google Haritalar)"
+
+#: admin/cpt.php:20
+msgid "Set featured image"
+msgstr "Öne çıkan resmi ayarla"
+
+#: admin/inc/tabs/infobox.php:40
+msgid "Set Max Width for Info Box?"
+msgstr "Bilgi Kutusu için Maksimum Genişlik Ayarlansın mı?"
+
+#: admin/settings.php:31
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: admin/inc/settings_form_bkup.php:77 admin/inc/tabs/marker.php:22
+msgid "Show Info Box"
+msgstr "Bilgi Kutusunu Göster"
+
+#: admin/inc/settings_form_bkup.php:68 admin/inc/tabs/marker.php:13
+msgid "Show Marker"
+msgstr "İşaretçiyi Göster"
+
+#: admin/inc/settings_seo.php:118
+msgid "Site Image"
+msgstr "Site Görseli"
+
+#: admin/inc/settings_seo.php:290
+msgid "State (i.e. CA)"
+msgstr "Eyalet (ör. CA)"
+
+#: admin/inc/metabox_side.php:2 admin/inc/metabox_side.php:4 
+#: admin/inc/metabox_side.php:7 admin/inc/metabox_side.php:9 
+#: admin/inc/metabox_side.php:11
+msgid "Step"
+msgstr "Adım"
+
+#: admin/inc/settings_seo.php:25
+msgid "Step 1: Add Schema Data on:"
+msgstr "1. Adım: Şema Verilerini ekleyin:"
+
+#: admin/inc/settings_seo.php:73
+msgid "Step 2: Fill Out The Form"
+msgstr "Adım 2: Formu Doldurun"
+
+#: admin/inc/settings_seo.php:320
+msgid "Street Address"
+msgstr "Sokak adresi"
+
+#: admin/inc/metabox_form.php:71 admin/inc/tabs/styles.php:5
+msgid "Styles"
+msgstr "Tarzlar"
+
+#: admin/inc/settings_seo.php:165
+msgid "Telephone"
+msgstr "Telefon"
+
+#: admin/inc/settings_faq.php:33
+msgid ""
+"The easiest part! Once your map is created and optimized (with markers, "
+"styles, ...), Wp Google Street View will generate a shortcode (on top of the "
+"page) to copy-paste where ever needed. These maps will adjust automatically "
+"according to your layout and settings (grid, full width, ...)"
+msgstr ""
+"En kolay kısım! Haritanız oluşturulduktan ve optimize edildikten sonra "
+"(işaretçiler, stiller, ... ile), Wp Google Street View, gerektiğinde "
+"kopyalayıp yapıştırmak için bir kısa kod (sayfanın üstünde) oluşturur. Bu "
+"haritalar, düzeninize ve ayarlarınıza göre (ızgara, tam genişlik, ...) "
+"otomatik olarak ayarlanacaktır."
+
+#: admin/inc/settings_faq.php:13
+msgid ""
+"The main reason why its recommended to apply restrictions is to help prevent "
+"unauthorised use of your quota ! We recommend to restrict your API key to "
+"specific websites (HTTP referrers). For example, if you want to limit this "
+"API key to all pages of your website (mysite.com), then select \"HTTP "
+"referrers\" (Key restrictions), then enter your website, with a * : mysite."
+"com/* (* for all pages on mysite.com). If you want to limit the use of "
+"specific APIs on this website, then, in API restrictions, select \"Restrict "
+"Key\" & identify these APIs (4 with Wp Google Street View)."
+msgstr ""
+"Kısıtlama uygulanmasının önerilmesinin ana nedeni, kotanızın yetkisiz "
+"kullanımını önlemeye yardımcı olmaktır! API anahtarınızı belirli web "
+"siteleriyle (HTTP yönlendirenler) kısıtlamanızı öneririz. Örneğin, bu API "
+"anahtarını web sitenizin (mysite.com) tüm sayfalarıyla sınırlamak "
+"istiyorsanız, \"HTTP yönlendirenler\" i (Anahtar kısıtlamaları) seçin, "
+"ardından web sitenizi *: mysite.com/* (* mysite.com'daki tüm sayfalar için). "
+"Bu web sitesinde belirli API'lerin kullanımını sınırlamak istiyorsanız, API "
+"kısıtlamalarında \"Anahtarı Kısıtla\" yı seçin ve bu API'leri tanımlayın (4 "
+"Wp Google Street View ile)."
+
+#: admin/inc/settings_seo.php:150
+msgid "The price range of the business, for example $$$"
+msgstr "İşletmenin fiyat aralığı, örneğin $$$"
+
+#. Description of the plugin
+msgid ""
+"The WP Google Street View allows you to embed Google street View (with "
+"virtual tour) & Google Maps maps with high quality markers."
+msgstr ""
+"WP Google Street View, Google sokak Görünümü (sanal turla) ve Google "
+"Haritalar haritalarını yüksek kaliteli işaretlerle yerleştirmenize olanak "
+"tanır."
+
+#: admin/inc/settings_form.php:46
+msgid ""
+"Then, you have to enable 4 APIs : \"Places API, Maps Javascript API, "
+"Geocoding API and Directions API\"."
+msgstr ""
+"Ardından, 4 API'yi etkinleştirmeniz gerekir: \"Places API, Maps Javascript "
+"API, Geocoding API ve Directions API\"."
+
+#: admin/inc/settings_faq.php:5
+msgid ""
+"This message could mean 2 things: either you did not enable all required "
+"APIs (you need 4 APIs to make plugin work properly), or you are limited by "
+"key restrictions/API restrictions. Please go to your account, https:"
+"//console.developers.google.com/, click on \"Credentials\" (left sade bar) > "
+"API Key (your project), then check your Key restrictions (None, Http "
+"referrers, Ip adresses, ...) or your API restrictions. You may need to copy-"
+"paste, once again, your API KEY on WpGoogle Street View setting page, then "
+"Save to make plugin work properly. Please wait a few minutes before you try "
+"again."
+msgstr ""
+"Bu mesaj 2 anlama gelebilir: ya gerekli tüm API'leri etkinleştirmediniz "
+"(eklentinin düzgün çalışması için 4 API'ye ihtiyacınız var) ya da anahtar "
+"kısıtlamaları / API kısıtlamaları ile sınırlısınız. Lütfen hesabınıza gidin, "
+"https://console.developers.google.com/, \"Kimlik Bilgileri\" (soldaki sade "
+"çubuk)> API Anahtarı (projeniz) seçeneğini tıklayın, ardından Anahtar "
+"kısıtlamalarınızı (Yok, Http yönlendirenler, IP adresleri) kontrol edin , ..."
+") veya API kısıtlamalarınız. Eklentinin düzgün çalışması için WpGoogle "
+"Street View ayar sayfasında API KEY'inizi bir kez daha kopyalayıp "
+"yapıştırmanız ve ardından Kaydetmeniz gerekebilir. Tekrar denemeden önce "
+"lütfen birkaç dakika bekleyin."
+
+#: admin/cpt.php:16
+msgid "Update Item"
+msgstr "Öğeyi Güncelle"
+
+#: admin/inc/settings_seo.php:136 admin/inc/settings_seo.php:140
+msgid "Upload Image"
+msgstr "Fotoğraf yükleniyor"
+
+#: admin/inc/tabs/marker.php:107 admin/inc/tabs/marker.php:111
+msgid "Upload Marker"
+msgstr "İşaretçi Yükle"
+
+#: admin/cpt.php:24
+msgid "Uploaded to this item"
+msgstr "Bu öğeye yüklendi"
+
+#: admin/cpt.php:22
+msgid "Use as featured image"
+msgstr "Öne çıkan resim olarak kullan"
+
+#: admin/inc/settings_faq.php:49
+msgid ""
+"We have integrated, in the \"Address (Coordinates)\" section of settings "
+"page, a tool allowing you to geolocalize you via Google Maps (and Google "
+"Autocomplete). Once your location is found, Wp Google Street View will "
+"automatically deploys the corresponding address as well as longitude and "
+"latitude."
+msgstr ""
+"Ayarlar sayfasının \"Adres (Koordinatlar)\" bölümüne, sizi Google Haritalar "
+"(ve Google Otomatik Tamamlama) aracılığıyla coğrafi konumlandırmanıza olanak "
+"tanıyan bir araç entegre ettik. Konumunuz bulunduğunda, Wp Google Street "
+"View otomatik olarak ilgili adresin yanı sıra enlem ve boylamı dağıtır."
+
+#: admin/inc/settings_seo.php:77
+msgid "Website Url"
+msgstr "Web Sitesi URL'si"
+
+#: admin/inc/settings_faq.php:3
+msgid ""
+"What does it mean: \"This API projects is not authorized to use with this "
+"API\"?"
+msgstr ""
+"Bu ne anlama geliyor: \"Bu API projelerinin bu API ile kullanım yetkisi "
+"yok\"?"
+
+#: admin/inc/settings_faq.php:11
+msgid "Why do I have to apply restrictions with my API KEY?"
+msgstr "API KEY'imle neden kısıtlamalar uygulamam gerekiyor?"
+
+#: admin/inc/tabs/general-settings.php:54
+msgid ""
+"Width and Height preview is not available. You will see it working on front-"
+"end. Don't add \"px\" or \"%\" for <strong>height</strong>. Map will not "
+"work."
+msgstr ""
+"Genişlik ve Yükseklik önizlemesi kullanılamaz. Ön uçta çalıştığını "
+"göreceksiniz. <strong> Yükseklik </strong> için \"piksel\" veya \"%\" "
+"eklemeyin. Harita çalışmayacak."
+
+#: admin/inc/metabox_form.php:62
+msgid ""
+"With Street View, make sure to \"correct\" or \"adjust\" the view displayed "
+"with preview tool (Zoom in/out + Point of View), then SAVE."
+msgstr ""
+"Sokak Görünümü ile, önizleme aracıyla (Yakınlaştır / Uzaklaştır + Bakış "
+"Açısı) görüntülenen görünümü \"düzeltdiğinizden\" veya \"ayarladığınızdan\" "
+"ve ardından KAYDETİN."
+
+#. id, used as the html id att
+#: admin/metabox.php:22 admin/cpt.php:8 admin/cpt.php:9 admin/cpt.php:30
+msgid "WP Google Street View"
+msgstr "WP Google Sokak Görünümü"
+
+#: admin/inc/settings_faq.php:80
+msgid "Wp Google Street View is 100% responsive and Mobile-Friendly."
+msgstr "Wp Google Street View,% 100 duyarlı ve Mobil Uyumludur."
+
+#: admin/cpt.php:31
+msgid "WP Google Street View Post Type"
+msgstr "WP Google Street View Gönderi Türü"
+
+#. Name of the plugin
+msgid "WP Google Street View Pro"
+msgstr "WP Google Street View Pro"
+
+#: admin/settings.php:30
+msgid "WP Google Street View Settings"
+msgstr "WP Google Sokak Görünümü Ayarları"
+
+#. id, used as the html id att
+#: admin/metabox.php:110
+msgid "WP Google Street View, How to ...?"
+msgstr "WP Google Street View, Nasıl Yapılır ...?"
+
+#: admin/inc/settings_form.php:45
+msgid "You need a Google Account (Gsuite, Gmail, ...)"
+msgstr "Bir Google Hesabına ihtiyacınız var (Gsuite, Gmail, ...)"
+
+#: admin/inc/settings_seo.php:165
+msgid "Your business telephone number"
+msgstr "İşletmenizin telefon numarası"
+
+#: admin/inc/settings_form_bkup.php:43 admin/inc/tabs/general-settings.php:33
+msgid "Zoom"
+msgstr "Yakınlaştır"

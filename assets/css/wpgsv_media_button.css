@@ -1,0 +1,16 @@
+#TB_window .wpgsv-container {
+    text-align: cetner;
+}
+#TB_window .wpgsv-select {
+    width: 94%;
+    max-width: 100%;
+    margin: auto;
+}
+#TB_window #wpgsv_insert_shortcode {
+    width: 94%;
+    margin: 10px auto 0;
+}
+#TB_window .wpgsv-btn-error .notice {
+    margin: 10px 0 0;
+    width: 83%;
+}
